@@ -1,2 +1,6 @@
-# Absenteeism-Analysis
-Analysis of an absenteeism data to generate dashboards for human resource department.
+# Absenteeism Analysis
+
+## Table of Content
+
+## Project Overview
+
