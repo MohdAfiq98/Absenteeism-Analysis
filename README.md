@@ -26,7 +26,8 @@ left join reasons r
 on a.Reason_for_absence = r.Number;              
 ```
 Result  
-Full result can refer in the result folder named “Join_Table_Output.csv”.
+Full result can refer in the result folder named “Join_Table_Output.csv”.  
+
 ![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/83f836bd-af13-4a67-a227-d8178663fb88)
 
  
@@ -53,7 +54,9 @@ Body_mass_index between 18.5 and 25 and
 Absenteeism_time_in_hours < (select avg(Absenteeism_time_in_hours)from absenteeism_at_work);                                                 
 ```
 Result  
-Full result can refer the file named “The_Healthiest_Worker_Output.csv” in the Output file.
+
+Full result can refer the file named “The_Healthiest_Worker_Output.csv” in the Output file.  
+
 ![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/9291525e-0a0a-45d3-81d0-ae3e6478fd00)
 
  
@@ -161,6 +164,12 @@ Trends and time responsible for visualized the data into trends line based on sp
 ![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/3f249c76-54b7-4091-b7b8-31425aa5fa43)  
 
 Reasons and Comparisons section will show the top reasons given for absenteeism in the company and line area graph to show the average transportation expenses by distance from residence to work.
+
+## Findings  
+There are some findings obtained by the whole analysis.
+
+1. It shows that most worker are absent during spring season with 391 employees and the top 3 reason for it is because of medical consultation, dental consultation, and unknown reason
+2. 
 
 
 
