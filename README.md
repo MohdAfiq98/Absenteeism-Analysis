@@ -127,3 +127,46 @@ Full result can be obtained from the “Output” file named “Work_Absent_With
 ![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/be146355-8711-43dd-98c1-8d3684598931)
 
 Result shows that all data have been successfully joined and ready to export to Power BI for visualization.
+
+## Dashboard Overview and Findings
+In this section shows the full overview of the dashboard, the description of each section in the dashboard, and findings from the dashboard.
+
+### Full Dashboard View  
+
+![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/9fc9628e-334e-4b82-bcf8-2ca3a65e8b80)
+
+The dashboard consists of slicer to filter different season names, overall data,
+employees and categories, trends and time, and reason and comparisons.
+
+#### 1. Slicer and Overall Data  
+
+![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/27fff6fa-1eec-4e2a-a9a4-e6ea6186cdee)
+
+In this dashboard section, we designed a slicer so that user can filter the data and visual based on the season names. The overall average of absenteeism time in hours can be seen using the card visual and we used the smart narative to prompt unique statistic findings from the data. 
+
+#### 2. Employees and Categories  
+
+![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/958020e0-97c8-4007-8762-e200058c8cd2)
+
+The employees and categories section implement the total number employees in the company, how many total absenteeism hours in the company, and categorical data is visualized by using pie chart like the example of worker with education. pets, children, and BMI categories. User can simply click any classification obtained in the section and straight away obtain the data of the selected preferences.
+
+#### 3. Trends and Time  
+
+![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/52670ede-eaa9-4446-9d1c-a934af2598f7)  
+
+Trends and time responsible for visualized the data into trends line based on specific category. In this secton, we want to observe the average absenteeism time in hours versus the month of absence. Secondly, we are interested in analyzing the trends of average absenteeism time in hours by the day of the week.
+
+#### 4. Reasons and Comparisons  
+
+![image](https://github.com/MohdAfiq98/Absenteeism-Analysis/assets/119799325/3f249c76-54b7-4091-b7b8-31425aa5fa43)  
+
+Reasons and Comparisons section will show the top reasons given for absenteeism in the company and line area graph to show the average transportation expenses by distance from residence to work.
+
+
+
+
+
+
+
+
+
