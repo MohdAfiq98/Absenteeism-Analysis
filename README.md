@@ -165,11 +165,20 @@ Trends and time responsible for visualized the data into trends line based on sp
 
 Reasons and Comparisons section will show the top reasons given for absenteeism in the company and line area graph to show the average transportation expenses by distance from residence to work.
 
-## Findings  
+## Findings and Suggestions 
 There are some findings obtained by the whole analysis.
 
-1. It shows that most worker are absent during spring season with 391 employees and the top 3 reason for it is because of medical consultation, dental consultation, and unknown reason
-2. 
+1. It shows that most worker are absent during spring season with 391 employees and the top 3 reason for it is because of medical consultation, dental consultation, and unknown reason.
+   
+2. We realised that the Human Resource Department have huge amount of compensation budget which is $983,221. Since they currently want to reward the non-smokers worker and the total budget was only $1435.20/year, we suggested the Human Resource Department to either use the remainning budget on other ccompensation plan. For example, they can create a reward plan like :
+   -  Worker who have least absenteeism for the year.
+   -  A campaign towards healthy work lifetsyle.
+   -  Provide medical assistant fund for unhealthy worker with proper terms based on their work loads, time travelling to work, and etc.
+  
+Hence, this will help to improve the absenteeism record among worker. Also gives them motivation to give commitment on their work place as well. Furthermore, create a healthy working environment for the company.
+
+3. Based on the average absenteeism time in hours versus the month of absence trend, we can see the absenteeism starts low in the month of January and starts to rise until April. Then its settle back in May before rises towards maximum in the month of July. As we can see, most of the worker starts to absent during the summer and spring season.
+
 
 
 
