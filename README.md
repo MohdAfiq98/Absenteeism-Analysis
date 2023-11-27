@@ -1,6 +1,15 @@
 # Absenteeism Analysis
 
 ## Table of Content
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data-Sources)
+- [Tools](#Tools)
+- [Data Exploration](#Data-Exploration)
+- [Data Cleaning](#Data-Cleaning)
+- [Dashboard Overview and Description](#Dashboard-Overview-and-Description)
+- [Findings and Suggestion](#Findings-and-Suggestions)
+- [Limitations](#Limitations)
+- [Reference](#Reference)
 
 ## Project Overview
 This project analyzes Human Resource department specifically interested in monitoring the worker absenteeism record for the whole year. The aim of this project is to provide insight into the worker performance over the year. By analyzing various aspects of the data, we seek to identify trends, make recommendations, and gain a deeper understanding of all worker absenteeism records.
@@ -11,7 +20,7 @@ The analysis consists of 3 different data sources from [Absent Data](https://abs
 -	Compensation : Shows the compensation rate per hour for each worker.
 -	Reasons : Holds the description of every reason based on unique number.
 ## Tools 
-Here shows the tools used for this analysis specifically. We used SQL, MySQL, Microsoft Excel, and Microsoft Power BI. Every elaboration for each tool can be refer below :
+Here shows the tools used for this analysis specifically. We used MySQL and Microsoft Power BI. Every elaboration for each tool can be refer below :
 -	MySQL : Data Exploration, Data Extraction and Data Analysis.
 -	Microsoft Power BI : Data Cleaning and Data Visualization.   
 
@@ -37,7 +46,7 @@ After execution, result returned with a total of 740 rows shows that all three t
 ## Data Extraction and Analysis
 In this section, we interested dividing the case into smaller section of scenario which :
 -	We are interested in finding the healthiest worker in the Company. This result can be specifically based on their social smoker, social drinker, body mass index reading, and their absenteeism time in hours.      
--	Next, to find the compensation rate for each non-smoker workers per year if the given compensation budget  by the company is $983,221. This result needs to be done with some calculations manually by extracting the total number of non-smoker workers in the company.     
+-	Next, to find the compensation rate for each non-smoker workers per year if the given compensation budget  by the HR Department is $983,221. This result needs to be done with some calculations manually by extracting the total number of non-smoker workers in the company.     
 -	We want to compile all tables and create new columns to obtain finalized data that shows the worker absent with reason. This data will be exported to Power BI for further visualization process.             
 
 #### 1. The Healthiest Worker in The Company
@@ -64,11 +73,11 @@ Full result can refer the file named “The_Healthiest_Worker_Output.csv” in t
 Result shows that that are 125 workers classified as the healthiest worker in the company.
 
 #### 2. Compensation Rate for Each Non-Smoker Worker Per Year
-Let say the company have assigned a budget of $983,221 for the compensation per year. And the working hours per day is 8 hours with 5 days a week. Hence we can calculate that :
+Let say the department have assigned a budget of $983,221 for the compensation per year. And the working hours per day is 8 hours with 5 days a week. Hence we can calculate that :
 
-8 hours x 5 days = 40hours/week
-1 year = 52weeks
-1 year = 52 weeks x 40 hours = 2080hours/year
+8 hours x 5 days = 40hours/week  
+1 year = 52weeks  
+1 year = 52 weeks x 40 hours = 2080hours/year  
 
 Now we want to find the total non-smoker worker that eligible for the compensation.
 
@@ -131,7 +140,10 @@ Full result can be obtained from the “Output” file named “Work_Absent_With
 
 Result shows that all data have been successfully joined and ready to export to Power BI for visualization.
 
-## Dashboard Overview and Findings
+## Data Cleaning
+After exporting the query to Power BI, we noticed there are unrelevant values in the "Month_of_absence". As we all know, the value of month should be from 1 to 12. Through some filtering process, we noticed there are '0'value in the column which is meaningless for the analysis. We filter out the value by using Power BI since there are only 3 rows. Hence the total data for the analysis will be 737 rows.
+
+## Dashboard Overview and Description
 In this section shows the full overview of the dashboard, the description of each section in the dashboard, and findings from the dashboard.
 
 ### Full Dashboard View  
@@ -168,19 +180,34 @@ Reasons and Comparisons section will show the top reasons given for absenteeism 
 ## Findings and Suggestions 
 There are some findings obtained by the whole analysis.
 
-1. It shows that most worker are absent during spring season with 391 employees and the top 3 reason for it is because of medical consultation, dental consultation, and unknown reason.
+1.  Most Absent Period and Reason.  
+It shows that most worker was absent during spring season with 391 employees and the top 3 reason for it is because of medical consultation, dental consultation, and unknown reason.
    
-2. We realised that the Human Resource Department have huge amount of compensation budget which is $983,221. Since they currently want to reward the non-smokers worker and the total budget was only $1435.20/year, we suggested the Human Resource Department to either use the remainning budget on other ccompensation plan. For example, they can create a reward plan like :
+2. Additional Campaign or Reward.    
+We realised that the Human Resource Department have huge amount of compensation budget which is $983,221. Since they currently want to reward the non-smokers worker and the total budget was only $1435.20/year, we suggested the Human Resource Department to either use the remainning budget on other compensation plan. For example, they can create a reward plan like :
+
    -  Worker who have least absenteeism for the year.
    -  A campaign towards healthy work lifetsyle.
-   -  Provide medical assistant fund for unhealthy worker with proper terms based on their work loads, time travelling to work, and etc.
-  
-Hence, this will help to improve the absenteeism record among worker. Also gives them motivation to give commitment on their work place as well. Furthermore, create a healthy working environment for the company.
+   -  Provide medical assistant fund for unhealthy worker with proper terms based on their work loads, time travelling to work, and etc.  
 
-3. Based on the average absenteeism time in hours versus the month of absence trend, we can see the absenteeism starts low in the month of January and starts to rise until April. Then its settle back in May before rises towards maximum in the month of July. As we can see, most of the worker starts to absent during the summer and spring season.
+Hence, this will help to improve the absenteeism record among worker. Also gives them motivation to give commitment on their work place as well. Furthermore, create a healthy
+working environment for the company.
 
+3. Absenteeism Hours Trend.  
+Based on the average absenteeism time in hours versus the month of absence trend, we can see the absenteeism starts low in the month of January and starts to rise until April. Then it decrease in May before rises towards maximum in the month of July. Based on the trend, most of the worker starts to absent during the summer and spring season.
 
+## Limitations
+As through out the whole analysis process, there are limitations towards the study :
 
+1. Data Description  
+   The data obtained from Absent data are not elaborated with description. Hence, some values in the columns are not clearly beeing clarified its meaning. We have made random assumptions on its meaning. Whereas, it could meant differently. For the purpose of the study, we have made our own meaning towwards the value of the data. For further project, we recommended to obtain data from open source platform like kaagle.com.
+   
+## Reference
+The reference used for the whole analysis :
+
+- AbsentData
+- Youtube.com
+- W3School
 
 
 
