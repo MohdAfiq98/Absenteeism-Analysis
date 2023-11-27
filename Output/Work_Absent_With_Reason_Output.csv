@@ -1,0 +1,741 @@
+ID,Reason,Month_of_absence,Body_mass_index,age,Day_of_the_week,BMI_Category,Season_Names,Seasons,Disciplinary_failure,Transportation_expense,Distance_from_Residence_to_Work,Service_time,Hit_target,Disciplinary_failure,Education,Son,Social_drinker,Social_smoker,pet,Weight,Height,Absenteeism_time_in_hours
+1,"unjustified absence ",7,30,33,3,Overweight,Summer,1,0,289,36,13,97,0,1,2,1,0,1,90,172,4
+2,Unkown,7,31,50,3,Obese,Summer,1,1,118,13,18,97,1,1,1,1,0,0,98,178,0
+3,"medical consultation ",7,31,38,4,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+4,"Diseases of the eye and adnexa",7,24,39,5,"Healthy Weight",Summer,1,0,279,5,14,97,0,1,2,1,1,0,68,168,4
+5,"medical consultation ",7,30,33,5,Overweight,Summer,1,0,289,36,13,97,0,1,2,1,0,1,90,172,2
+6,"medical consultation ",7,31,38,6,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+7,"patient follow-up ",7,27,28,6,Overweight,Summer,1,0,361,52,3,97,0,1,1,1,0,4,80,172,8
+8,"medical consultation ",7,23,36,6,"Healthy Weight",Summer,1,0,260,50,11,97,0,1,4,1,0,0,65,168,4
+9,"Injury, poisoning and certain other consequences of external causes",7,25,34,2,"Healthy Weight",Summer,1,0,155,12,14,97,0,1,2,1,0,0,95,196,40
+10,"patient follow-up ",7,29,37,2,Overweight,Summer,1,0,235,11,14,97,0,3,1,0,0,1,88,172,8
+11,"Certain infectious and parasitic diseases",7,23,36,2,"Healthy Weight",Summer,1,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+12,"Certain infectious and parasitic diseases",7,23,36,3,"Healthy Weight",Summer,1,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+13,"Diseases of the digestive system",7,23,36,4,"Healthy Weight",Summer,1,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+14,"Diseases of the digestive system",7,31,38,4,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,1
+15,"medical consultation ",7,31,38,4,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,4
+16,"Diseases of the genitourinary system",7,23,41,6,"Healthy Weight",Summer,1,0,246,25,16,97,0,1,0,1,0,0,67,170,8
+17,"medical consultation ",7,31,38,6,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+18,"Factors influencing health status and contact with health services.",7,31,38,2,Obese,Summer,1,0,179,51,18,97,0,1,0,1,0,0,89,170,8
+19,"Diseases of the digestive system",7,25,33,5,"Healthy Weight",Summer,1,0,189,29,13,97,0,1,2,0,0,2,69,167,8
+20,"medical consultation ",8,32,47,4,Obese,Summer,1,0,248,25,14,92,0,1,2,0,0,1,86,165,2
+21,"Diseases of the respiratory system",8,25,28,4,"Healthy Weight",Summer,1,0,330,16,4,92,0,2,0,0,0,0,84,182,8
+22,"Diseases of the digestive system",8,31,38,2,Obese,Summer,1,0,179,51,18,92,0,1,0,1,0,0,89,170,1
+23,"Diseases of the musculoskeletal system and connective tissue",8,27,28,2,Overweight,Summer,1,0,361,52,3,92,0,1,1,1,0,4,80,172,40
+24,"dental consultation ",8,23,36,6,"Healthy Weight",Summer,1,0,260,50,11,92,0,1,4,1,0,0,65,168,4
+25,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,30,33,2,Overweight,Summer,1,0,289,36,13,92,0,1,2,1,0,1,90,172,8
+26,"laboratory examination ",8,27,28,2,Overweight,Summer,1,0,361,52,3,92,0,1,1,1,0,4,80,172,7
+27,"medical consultation ",8,30,33,3,Overweight,Summer,1,0,289,36,13,92,0,1,2,1,0,1,90,172,1
+28,"dental consultation ",8,22,29,4,"Healthy Weight",Summer,1,0,157,27,6,92,0,1,0,1,1,0,75,185,4
+29,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,30,33,4,Overweight,Summer,1,0,289,36,13,92,0,1,2,1,0,1,90,172,8
+30,"medical consultation ",8,31,38,6,Obese,Summer,1,0,179,51,18,92,0,1,0,1,0,0,89,170,2
+31,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,31,38,2,Obese,Summer,1,0,179,51,18,92,0,1,0,1,0,0,89,170,8
+32,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,33,48,5,Obese,Summer,1,0,235,29,12,92,0,1,1,0,1,5,88,163,8
+33,"medical consultation ",8,29,37,5,Overweight,Summer,1,0,235,11,14,92,0,3,1,0,0,1,88,172,4
+34,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,33,48,2,Obese,Summer,1,0,235,29,12,92,0,1,1,0,1,5,88,163,8
+35,"medical consultation ",8,31,38,2,Obese,Summer,1,0,179,51,18,92,0,1,0,1,0,0,89,170,2
+36,"medical consultation ",8,27,28,2,Overweight,Summer,1,0,361,52,3,92,0,1,1,1,0,4,80,172,1
+37,"blood donation",8,30,33,3,Overweight,Summer,1,0,289,36,13,92,0,1,2,1,0,1,90,172,8
+38,"Diseases of the digestive system",8,23,32,5,"Healthy Weight",Summer,1,0,291,50,12,92,0,1,0,1,0,0,65,169,4
+39,"dental consultation ",8,33,48,6,Obese,Summer,1,0,235,29,12,92,0,1,1,0,1,5,88,163,8
+40,"medical consultation ",8,23,36,6,"Healthy Weight",Summer,1,0,260,50,11,92,0,1,4,1,0,0,65,168,4
+41,"medical consultation ",9,21,27,3,"Healthy Weight",Autumn,1,0,184,42,7,92,0,1,0,0,0,0,58,167,2
+42,"medical consultation ",9,28,37,2,Overweight,Autumn,1,0,118,10,10,92,0,1,0,0,0,0,83,172,4
+43,"medical consultation ",9,31,38,3,Obese,Autumn,1,0,179,51,18,92,0,1,0,1,0,0,89,170,4
+44,"Injury, poisoning and certain other consequences of external causes",9,38,43,3,Obese,Autumn,1,0,235,20,13,92,0,1,1,1,0,0,106,167,8
+45,"medical consultation ",9,25,34,4,"Healthy Weight",Autumn,1,0,155,12,14,92,0,1,2,1,0,0,95,196,2
+46,"medical consultation ",9,28,37,2,Overweight,Autumn,1,0,118,10,10,92,0,1,0,0,0,0,83,172,3
+47,"medical consultation ",9,31,38,3,Obese,Autumn,1,0,179,51,18,92,0,1,0,1,0,0,89,170,3
+48,"medical consultation ",9,25,40,5,"Healthy Weight",Autumn,1,0,291,31,12,92,0,1,1,1,0,1,73,171,4
+49,"patient follow-up ",9,23,36,6,"Healthy Weight",Autumn,1,0,260,50,11,92,0,1,4,1,0,0,65,168,8
+50,"Diseases of the genitourinary system",9,25,40,2,"Healthy Weight",Autumn,4,0,291,31,12,92,0,1,1,1,0,1,73,171,32
+51,Unkown,9,23,36,2,"Healthy Weight",Autumn,4,1,260,50,11,92,1,1,4,1,0,0,65,168,0
+52,Unkown,9,24,28,2,"Healthy Weight",Autumn,4,1,225,26,9,92,1,1,1,0,0,2,69,169,0
+53,"medical consultation ",9,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,92,0,1,1,0,0,2,69,169,2
+54,"medical consultation ",9,28,37,3,Overweight,Autumn,4,0,118,10,10,92,0,1,0,0,0,0,83,172,2
+55,Unkown,9,30,33,3,Overweight,Autumn,4,1,289,36,13,92,1,1,2,1,0,1,90,172,0
+56,Unkown,9,31,50,3,Obese,Autumn,4,1,118,13,18,92,1,1,1,1,0,0,98,178,0
+57,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",9,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,92,0,1,1,0,0,2,69,169,3
+58,"medical consultation ",9,31,38,4,Obese,Autumn,4,0,179,51,18,92,0,1,0,1,0,0,89,170,3
+59,Unkown,9,25,31,4,"Healthy Weight",Autumn,4,1,369,17,12,92,1,1,3,1,0,0,70,169,0
+60,"medical consultation ",9,32,47,6,Obese,Autumn,4,0,248,25,14,92,0,1,2,0,0,1,86,165,1
+61,"medical consultation ",9,31,38,6,Obese,Autumn,4,0,179,51,18,92,0,1,0,1,0,0,89,170,3
+62,"medical consultation ",9,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,92,0,1,4,1,0,0,65,168,4
+63,"medical consultation ",10,31,38,3,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,3
+64,"medical consultation ",10,28,37,3,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,3
+65,Unkown,10,31,50,4,Obese,Autumn,4,1,118,13,18,93,1,1,1,1,0,0,98,178,0
+66,"medical consultation ",10,19,30,5,"Healthy Weight",Autumn,4,0,179,26,9,93,0,3,0,0,0,0,56,171,1
+67,"medical consultation ",10,31,38,6,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,3
+68,"medical consultation ",10,24,28,6,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+69,"medical consultation ",10,28,37,3,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,3
+70,"medical consultation ",10,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,2
+71,"medical consultation ",10,32,47,4,Obese,Autumn,4,0,248,25,14,93,0,1,2,0,0,1,86,165,2
+72,"medical consultation ",10,25,40,5,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,5
+73,"medical consultation ",10,31,38,4,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,8
+74,"medical consultation ",10,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+75,"Injury, poisoning and certain other consequences of external causes",10,23,36,5,"Healthy Weight",Autumn,4,0,260,50,11,93,0,1,4,1,0,0,65,168,16
+76,"Diseases of the genitourinary system",10,25,40,3,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,8
+77,"dental consultation ",10,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,2
+78,"unjustified absence ",10,30,33,4,Overweight,Autumn,4,0,289,36,13,93,0,1,2,1,0,1,90,172,8
+79,"medical consultation ",10,27,28,6,Overweight,Autumn,4,0,361,52,3,93,0,1,1,1,0,4,80,172,1
+80,"dental consultation ",10,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,93,0,1,4,1,0,0,65,168,3
+81,"medical consultation ",11,31,38,5,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+82,"medical consultation ",11,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,1
+83,"Diseases of the musculoskeletal system and connective tissue",11,31,38,5,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,8
+84,"Factors influencing health status and contact with health services.",11,22,40,5,"Healthy Weight",Autumn,4,0,179,22,17,93,0,2,2,0,1,0,63,170,8
+85,"medical consultation ",11,25,40,5,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,5
+86,"Diseases of the respiratory system",11,25,34,2,"Healthy Weight",Autumn,4,0,155,12,14,93,0,1,2,1,0,0,95,196,32
+87,"patient follow-up ",11,25,33,2,"Healthy Weight",Autumn,4,0,189,29,13,93,0,1,2,0,0,2,69,167,8
+88,"Diseases of the genitourinary system",11,25,40,2,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,40
+89,"medical consultation ",11,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,1
+90,"Diseases of the nervous system",11,25,34,6,"Healthy Weight",Autumn,4,0,155,12,14,93,0,1,2,1,0,0,95,196,8
+91,"medical consultation ",11,24,28,4,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+92,"Factors influencing health status and contact with health services.",11,22,40,4,"Healthy Weight",Autumn,4,0,179,22,17,93,0,2,2,0,1,0,63,170,8
+93,"Diseases of the musculoskeletal system and connective tissue",11,24,28,6,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+94,"dental consultation ",11,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,93,0,1,4,1,0,0,65,168,4
+95,"dental consultation ",11,32,47,2,Obese,Autumn,4,0,248,25,14,93,0,1,2,0,0,1,86,165,1
+96,"dental consultation ",11,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+97,"Diseases of the eye and adnexa",11,30,33,4,Overweight,Autumn,4,0,289,36,13,93,0,1,2,1,0,1,90,172,24
+98,"medical consultation ",11,25,40,5,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,3
+99,"medical consultation ",12,32,47,3,Obese,Winter,4,0,248,25,14,97,0,1,2,0,0,1,86,165,1
+100,"Injury, poisoning and certain other consequences of external causes",12,28,37,3,Overweight,Winter,4,0,118,10,10,97,0,1,0,0,0,0,83,172,64
+101,"medical consultation ",12,31,50,4,Obese,Winter,4,0,118,13,18,97,0,1,1,1,0,0,98,178,2
+102,"unjustified absence ",12,29,37,4,Overweight,Winter,4,0,235,11,14,97,0,3,1,0,0,1,88,172,8
+103,"medical consultation ",12,24,28,5,"Healthy Weight",Winter,4,0,225,26,9,97,0,1,1,0,0,2,69,169,2
+104,"unjustified absence ",12,23,36,6,"Healthy Weight",Winter,4,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+105,"Injury, poisoning and certain other consequences of external causes",12,28,37,3,Overweight,Winter,4,0,118,10,10,97,0,1,0,0,0,0,83,172,56
+106,"patient follow-up ",12,27,28,4,Overweight,Winter,4,0,361,52,3,97,0,1,1,1,0,4,80,172,8
+107,"dental consultation ",12,24,28,5,"Healthy Weight",Winter,4,0,225,26,9,97,0,1,1,0,0,2,69,169,3
+108,"dental consultation ",12,23,36,6,"Healthy Weight",Winter,4,0,260,50,11,97,0,1,4,1,0,0,65,168,3
+109,"medical consultation ",12,24,28,3,"Healthy Weight",Winter,4,0,225,26,9,97,0,1,1,0,0,2,69,169,2
+110,"patient follow-up ",12,27,28,4,Overweight,Winter,4,0,361,52,3,97,0,1,1,1,0,4,80,172,8
+111,"physiotherapy ",12,28,37,6,Overweight,Winter,4,0,118,10,10,97,0,1,0,0,0,0,83,172,2
+112,"Injury, poisoning and certain other consequences of external causes",12,23,41,6,"Healthy Weight",Winter,2,0,246,25,16,97,0,1,0,1,0,0,67,170,8
+113,"medical consultation ",12,24,28,6,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,2
+114,"medical consultation ",1,24,28,4,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,1
+115,"Injury, poisoning and certain other consequences of external causes",1,28,37,2,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,1
+116,"physiotherapy ",1,28,37,3,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,1
+117,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,25,34,3,"Healthy Weight",Winter,2,0,155,12,14,95,0,1,2,1,0,0,95,196,8
+118,"physiotherapy ",1,24,28,4,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+119,"medical consultation ",1,21,27,5,"Healthy Weight",Winter,2,0,184,42,7,95,0,1,0,0,0,0,58,167,2
+120,"dental consultation ",1,24,28,5,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+121,"physiotherapy ",1,24,28,6,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,1
+122,"physiotherapy ",1,28,37,2,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+123,"physiotherapy ",1,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+124,"physiotherapy ",1,28,37,3,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+125,"physiotherapy ",1,28,37,4,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+126,"physiotherapy ",1,28,37,5,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+127,"physiotherapy ",1,28,37,6,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+128,"physiotherapy ",1,28,37,2,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+129,"physiotherapy ",1,28,37,3,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+130,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,19,30,3,"Healthy Weight",Winter,2,0,179,26,9,95,0,3,0,0,0,0,56,171,8
+131,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,30,33,3,Overweight,Winter,2,0,289,36,13,95,0,1,2,1,0,1,90,172,8
+132,"physiotherapy ",1,28,37,4,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+133,"medical consultation ",1,21,27,5,"Healthy Weight",Winter,2,0,184,42,7,95,0,1,0,0,0,0,58,167,2
+134,"physiotherapy ",1,28,37,5,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+135,"physiotherapy ",1,28,37,2,Overweight,Winter,2,0,118,10,10,95,0,1,0,0,0,0,83,172,0
+136,"medical consultation ",1,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,95,0,1,1,0,0,2,69,169,1
+137,"patient follow-up ",1,30,33,5,Overweight,Winter,2,0,289,36,13,95,0,1,2,1,0,1,90,172,3
+138,"medical consultation ",2,21,27,6,"Healthy Weight",Winter,2,0,184,42,7,99,0,1,0,0,0,0,58,167,1
+139,"Certain infectious and parasitic diseases",2,23,41,4,"Healthy Weight",Winter,2,0,246,25,16,99,0,1,0,1,0,0,67,170,8
+140,"Diseases of the digestive system",2,31,38,4,Obese,Winter,2,0,179,51,18,99,0,1,0,1,0,0,89,170,8
+141,"dental consultation ",2,25,34,5,"Healthy Weight",Winter,2,0,155,12,14,99,0,1,2,1,0,0,95,196,2
+142,"medical consultation ",2,25,33,5,"Healthy Weight",Winter,2,0,189,29,13,99,0,1,2,0,0,2,69,167,8
+143,"dental consultation ",2,23,36,6,"Healthy Weight",Winter,2,0,260,50,11,99,0,1,4,1,0,0,65,168,2
+144,"patient follow-up ",2,30,33,6,Overweight,Winter,2,0,289,36,13,99,0,1,2,1,0,1,90,172,8
+145,"Diseases of the digestive system",2,24,50,2,"Healthy Weight",Winter,2,0,388,15,9,99,0,1,0,0,0,0,76,178,8
+146,"Certain infectious and parasitic diseases",2,24,50,3,"Healthy Weight",Winter,2,0,388,15,9,99,0,1,0,0,0,0,76,178,8
+147,"dental consultation ",2,24,28,2,"Healthy Weight",Winter,2,0,225,26,9,99,0,1,1,0,0,2,69,169,2
+148,"medical consultation ",2,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,99,0,1,1,0,0,2,69,169,2
+149,"medical consultation ",2,19,30,3,"Healthy Weight",Winter,2,0,179,26,9,99,0,3,0,0,0,0,56,171,1
+150,"medical consultation ",2,21,27,3,"Healthy Weight",Winter,2,0,184,42,7,99,0,1,0,0,0,0,58,167,8
+151,"laboratory examination ",2,24,28,5,"Healthy Weight",Winter,2,0,225,26,9,99,0,1,1,0,0,2,69,169,3
+152,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2,25,28,2,"Healthy Weight",Winter,2,0,330,16,4,99,0,2,0,0,0,0,84,182,8
+153,"medical consultation ",2,25,28,3,"Healthy Weight",Winter,2,0,330,16,4,99,0,2,0,0,0,0,84,182,1
+154,"medical consultation ",2,24,28,4,"Healthy Weight",Winter,2,0,225,26,9,99,0,1,1,0,0,2,69,169,1
+155,"Injury, poisoning and certain other consequences of external causes",2,25,33,5,"Healthy Weight",Winter,2,0,189,29,13,99,0,1,2,0,0,2,69,167,8
+156,"dental consultation ",3,23,32,3,"Healthy Weight",Spring,2,0,291,50,12,95,0,1,0,1,0,0,65,169,2
+157,"Injury, poisoning and certain other consequences of external causes",3,23,36,3,"Healthy Weight",Spring,2,0,260,50,11,95,0,1,4,1,0,0,65,168,8
+158,"Injury, poisoning and certain other consequences of external causes",3,22,29,3,"Healthy Weight",Spring,2,0,157,27,6,95,0,1,0,1,1,0,75,185,3
+159,"Congenital malformations, deformations and chromosomal abnormalities",3,22,40,3,"Healthy Weight",Spring,2,0,179,22,17,95,0,2,2,0,1,0,63,170,8
+160,"patient follow-up ",3,25,40,4,"Healthy Weight",Spring,2,0,291,31,12,95,0,1,1,1,0,1,73,171,8
+161,"Diseases of the musculoskeletal system and connective tissue",3,23,36,4,"Healthy Weight",Spring,2,0,260,50,11,95,0,1,4,1,0,0,65,168,8
+162,"Diseases of the musculoskeletal system and connective tissue",3,19,30,5,"Healthy Weight",Spring,2,0,179,26,9,95,0,3,0,0,0,0,56,171,8
+163,"Diseases of the genitourinary system",3,32,47,6,Obese,Spring,2,0,248,25,14,95,0,1,2,0,0,1,86,165,3
+164,"Diseases of the musculoskeletal system and connective tissue",3,23,36,6,"Healthy Weight",Spring,2,0,260,50,11,95,0,1,4,1,0,0,65,168,40
+165,"Diseases of the digestive system",3,22,40,2,"Healthy Weight",Spring,2,0,179,22,17,95,0,2,2,0,1,0,63,170,40
+166,"Certain infectious and parasitic diseases",3,25,34,2,"Healthy Weight",Spring,2,0,155,12,14,95,0,1,2,1,0,0,95,196,16
+167,"unjustified absence ",3,23,36,2,"Healthy Weight",Spring,2,0,260,50,11,95,0,1,4,1,0,0,65,168,16
+168,"Diseases of the musculoskeletal system and connective tissue",3,25,34,3,"Healthy Weight",Spring,2,0,155,12,14,95,0,1,2,1,0,0,95,196,8
+169,"Diseases of the nervous system",3,30,33,5,Overweight,Spring,2,0,289,36,13,95,0,1,2,1,0,1,90,172,8
+170,"Diseases of the ear and mastoid process",3,22,40,5,"Healthy Weight",Spring,2,0,179,22,17,95,0,2,2,0,1,0,63,170,8
+171,"dental consultation ",3,23,36,6,"Healthy Weight",Spring,2,0,260,50,11,95,0,1,4,1,0,0,65,168,4
+172,"medical consultation ",3,24,28,6,"Healthy Weight",Spring,2,0,225,26,9,95,0,1,1,0,0,2,69,169,1
+173,"Diseases of the genitourinary system",3,24,39,2,"Healthy Weight",Spring,2,0,279,5,14,95,0,1,2,1,1,0,68,168,8
+174,"Diseases of the musculoskeletal system and connective tissue",3,31,38,3,Obese,Spring,2,0,179,51,18,95,0,1,0,1,0,0,89,170,24
+175,"medical consultation ",3,24,28,4,"Healthy Weight",Spring,2,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+176,"Diseases of the digestive system",3,24,28,2,"Healthy Weight",Spring,3,0,225,26,9,95,0,1,1,0,0,2,69,169,8
+177,"Diseases of the musculoskeletal system and connective tissue",3,19,30,2,"Healthy Weight",Spring,3,0,179,26,9,95,0,3,0,0,0,0,56,171,1
+178,"Diseases of the digestive system",3,24,28,3,"Healthy Weight",Spring,3,0,225,26,9,95,0,1,1,0,0,2,69,169,8
+179,"Diseases of the digestive system",3,24,28,4,"Healthy Weight",Spring,3,0,225,26,9,95,0,1,1,0,0,2,69,169,16
+180,"Diseases of the musculoskeletal system and connective tissue",3,31,38,4,Obese,Spring,3,0,179,51,18,95,0,1,0,1,0,0,89,170,3
+181,"Diseases of the genitourinary system",3,24,39,5,"Healthy Weight",Spring,3,0,279,5,14,95,0,1,2,1,1,0,68,168,16
+182,"dental consultation ",3,24,28,6,"Healthy Weight",Spring,3,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+183,"Diseases of the genitourinary system",3,32,47,6,Obese,Spring,3,0,248,25,14,95,0,1,2,0,0,1,86,165,3
+184,"dental consultation ",3,24,28,2,"Healthy Weight",Spring,3,0,225,26,9,95,0,1,1,0,0,2,69,169,1
+185,"dental consultation ",4,25,40,4,"Healthy Weight",Spring,3,0,291,31,12,96,0,1,1,1,0,1,73,171,1
+186,"medical consultation ",4,24,28,4,"Healthy Weight",Spring,3,0,225,26,9,96,0,1,1,0,0,2,69,169,1
+187,"dental consultation ",4,25,34,3,"Healthy Weight",Spring,3,0,155,12,14,96,0,1,2,1,0,0,95,196,1
+188,"Diseases of the musculoskeletal system and connective tissue",4,23,41,4,"Healthy Weight",Spring,3,0,246,25,16,96,0,1,0,1,0,0,67,170,24
+189,"medical consultation ",4,25,34,5,"Healthy Weight",Spring,3,0,155,12,14,96,0,1,2,1,0,0,95,196,1
+190,"dental consultation ",4,24,28,6,"Healthy Weight",Spring,3,0,225,26,9,96,0,1,1,0,0,2,69,169,2
+191,"dental consultation ",4,23,36,6,"Healthy Weight",Spring,3,0,260,50,11,96,0,1,4,1,0,0,65,168,4
+192,"Diseases of the musculoskeletal system and connective tissue",4,31,38,4,Obese,Spring,3,0,179,51,18,96,0,1,0,1,0,0,89,170,24
+193,"medical consultation ",4,31,50,5,Obese,Spring,3,0,118,13,18,96,0,1,1,1,0,0,98,178,1
+194,"medical consultation ",4,25,40,6,"Healthy Weight",Spring,3,0,291,31,12,96,0,1,1,1,0,1,73,171,3
+195,"Diseases of the genitourinary system",4,23,41,6,"Healthy Weight",Spring,3,0,246,25,16,96,0,1,0,1,0,0,67,170,8
+196,"dental consultation ",4,25,40,6,"Healthy Weight",Spring,3,0,291,31,12,96,0,1,1,1,0,1,73,171,1
+197,"dental consultation ",4,32,47,6,Obese,Spring,3,0,248,25,14,96,0,1,2,0,0,1,86,165,8
+198,"Injury, poisoning and certain other consequences of external causes",4,23,36,6,"Healthy Weight",Spring,3,0,260,50,11,96,0,1,4,1,0,0,65,168,56
+199,"Injury, poisoning and certain other consequences of external causes",4,30,33,3,Overweight,Spring,3,0,289,36,13,96,0,1,2,1,0,1,90,172,8
+200,"Diseases of the skin and subcutaneous tissue",4,25,34,4,"Healthy Weight",Spring,3,0,155,12,14,96,0,1,2,1,0,0,95,196,24
+201,"Injury, poisoning and certain other consequences of external causes",4,21,36,4,"Healthy Weight",Spring,3,0,378,49,11,96,0,1,2,0,1,4,65,174,8
+202,"Diseases of the musculoskeletal system and connective tissue",4,30,33,5,Overweight,Spring,3,0,289,36,13,96,0,1,2,1,0,1,90,172,16
+203,"Diseases of the eye and adnexa",4,29,37,6,Overweight,Spring,3,0,235,11,14,96,0,3,1,0,0,1,88,172,3
+204,Unkown,4,33,48,2,Obese,Spring,3,1,235,29,12,96,1,1,1,0,1,5,88,163,0
+205,"Diseases of the musculoskeletal system and connective tissue",5,30,33,4,Overweight,Spring,3,0,289,36,13,92,0,1,2,1,0,1,90,172,8
+206,"dental consultation ",5,25,34,5,"Healthy Weight",Spring,3,0,155,12,14,92,0,1,2,1,0,0,95,196,2
+207,"dental consultation ",5,25,34,2,"Healthy Weight",Spring,3,0,155,12,14,92,0,1,2,1,0,0,95,196,1
+208,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,31,38,3,Obese,Spring,3,0,179,51,18,92,0,1,0,1,0,0,89,170,8
+209,"Injury, poisoning and certain other consequences of external causes",5,24,28,3,"Healthy Weight",Spring,3,0,225,26,9,92,0,1,1,0,0,2,69,169,8
+210,"Diseases of the eye and adnexa",5,21,27,4,"Healthy Weight",Spring,3,0,184,42,7,92,0,1,0,0,0,0,58,167,4
+211,"dental consultation ",5,25,34,2,"Healthy Weight",Spring,3,0,155,12,14,92,0,1,2,1,0,0,95,196,2
+212,"Diseases of the skin and subcutaneous tissue",5,31,38,3,Obese,Spring,3,0,179,51,18,92,0,1,0,1,0,0,89,170,1
+213,"Diseases of the musculoskeletal system and connective tissue",5,30,33,4,Overweight,Spring,3,0,289,36,13,92,0,1,2,1,0,1,90,172,24
+214,Unkown,5,24,39,4,"Healthy Weight",Spring,3,1,279,5,14,92,1,1,2,1,1,0,68,168,0
+215,Unkown,5,25,28,4,"Healthy Weight",Spring,3,1,330,16,4,92,1,2,0,0,0,0,84,182,0
+216,Unkown,5,21,36,4,"Healthy Weight",Spring,3,1,378,49,11,92,1,1,2,0,1,4,65,174,0
+217,Unkown,5,24,50,4,"Healthy Weight",Spring,3,1,388,15,9,92,1,1,0,0,0,0,76,178,0
+218,"Diseases of the digestive system",5,31,38,3,Obese,Spring,3,0,179,51,18,92,0,1,0,1,0,0,89,170,1
+219,"Diseases of the musculoskeletal system and connective tissue",5,31,50,4,Obese,Spring,3,0,118,13,18,92,0,1,1,1,0,0,98,178,24
+220,"patient follow-up ",5,27,28,6,Overweight,Spring,3,0,361,52,3,92,0,1,1,1,0,4,80,172,8
+221,"Injury, poisoning and certain other consequences of external causes",6,23,41,2,"Healthy Weight",Summer,3,0,246,25,16,94,0,1,0,1,0,0,67,170,8
+222,"patient follow-up ",6,27,28,2,Overweight,Summer,3,0,361,52,3,94,0,1,1,1,0,4,80,172,8
+223,"Diseases of the respiratory system",6,23,41,3,"Healthy Weight",Summer,3,0,246,25,16,94,0,1,0,1,0,0,67,170,24
+224,"medical consultation ",6,25,40,5,"Healthy Weight",Summer,3,0,291,31,12,94,0,1,1,1,0,1,73,171,4
+225,"Diseases of the respiratory system",6,23,41,6,"Healthy Weight",Summer,3,0,246,25,16,94,0,1,0,1,0,0,67,170,8
+226,"Diseases of the digestive system",6,31,38,2,Obese,Summer,3,0,179,51,18,94,0,1,0,1,0,0,89,170,8
+227,"medical consultation ",6,25,34,2,"Healthy Weight",Summer,3,0,155,12,14,94,0,1,2,1,0,0,95,196,4
+228,"Diseases of the respiratory system",6,23,41,2,"Healthy Weight",Summer,3,0,246,25,16,94,0,1,0,1,0,0,67,170,8
+229,"Diseases of the musculoskeletal system and connective tissue",6,31,50,4,Obese,Summer,3,0,118,13,18,94,0,1,1,1,0,0,98,178,8
+230,"Diseases of the musculoskeletal system and connective tissue",6,29,37,6,Overweight,Summer,3,0,235,11,14,94,0,3,1,0,0,1,88,172,16
+231,"medical consultation ",6,31,50,3,Obese,Summer,3,0,118,13,18,94,0,1,1,1,0,0,98,178,1
+232,"Diseases of the musculoskeletal system and connective tissue",6,31,50,4,Obese,Summer,3,0,118,13,18,94,0,1,1,1,0,0,98,178,80
+233,"patient follow-up ",6,21,36,5,"Healthy Weight",Summer,3,0,378,49,11,94,0,1,2,0,1,4,65,174,8
+234,"Diseases of the digestive system",6,31,38,6,Obese,Summer,3,0,179,51,18,94,0,1,0,1,0,0,89,170,2
+235,"dental consultation ",6,36,49,2,Obese,Summer,1,0,289,48,29,94,0,1,0,0,0,2,108,172,2
+236,"dental consultation ",6,24,28,5,"Healthy Weight",Summer,1,0,225,26,9,94,0,1,1,0,0,2,69,169,2
+237,"Injury, poisoning and certain other consequences of external causes",7,25,34,3,"Healthy Weight",Summer,1,0,155,12,14,98,0,1,2,1,0,0,95,196,16
+238,"Certain infectious and parasitic diseases",7,31,50,4,Obese,Summer,1,0,118,13,18,98,0,1,1,1,0,0,98,178,8
+239,"Mental and behavioural disorders",7,28,37,6,Overweight,Summer,1,0,118,10,10,98,0,1,0,0,0,0,83,172,8
+240,"unjustified absence ",7,28,37,6,Overweight,Summer,1,0,118,10,10,98,0,1,0,0,0,0,83,172,4
+241,"unjustified absence ",7,25,28,3,"Healthy Weight",Summer,1,0,330,16,4,98,0,2,0,0,0,0,84,182,8
+242,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",7,19,30,5,"Healthy Weight",Summer,1,0,179,26,9,98,0,3,0,0,0,0,56,171,8
+243,"laboratory examination ",7,25,34,6,"Healthy Weight",Summer,1,0,155,12,14,98,0,1,2,1,0,0,95,196,2
+244,"Certain infectious and parasitic diseases",7,25,28,2,"Healthy Weight",Summer,1,0,330,16,4,98,0,2,0,0,0,0,84,182,8
+245,"Certain infectious and parasitic diseases",7,25,28,3,"Healthy Weight",Summer,1,0,330,16,4,98,0,2,0,0,0,0,84,182,8
+246,"laboratory examination ",7,22,29,2,"Healthy Weight",Summer,1,0,157,27,6,98,0,1,0,1,1,0,75,185,3
+247,"patient follow-up ",7,27,28,3,Overweight,Summer,1,0,361,52,3,98,0,1,1,1,0,4,80,172,8
+248,"unjustified absence ",7,30,33,4,Overweight,Summer,1,0,289,36,13,98,0,1,2,1,0,1,90,172,8
+249,"unjustified absence ",7,31,38,5,Obese,Summer,1,0,179,51,18,98,0,1,0,1,0,0,89,170,8
+250,"Injury, poisoning and certain other consequences of external causes",7,30,33,2,Overweight,Summer,1,0,289,36,13,98,0,1,2,1,0,1,90,172,32
+251,"Injury, poisoning and certain other consequences of external causes",7,30,33,5,Overweight,Summer,1,0,289,36,13,98,0,1,2,1,0,1,90,172,8
+252,Unkown,7,23,36,5,"Healthy Weight",Summer,1,1,260,50,11,98,1,1,4,1,0,0,65,168,0
+253,"Injury, poisoning and certain other consequences of external causes",8,30,33,6,Overweight,Summer,1,0,289,36,13,94,0,1,2,1,0,1,90,172,8
+254,"Injury, poisoning and certain other consequences of external causes",8,22,29,6,"Healthy Weight",Summer,1,0,157,27,6,94,0,1,0,1,1,0,75,185,3
+255,"medical consultation ",8,30,33,2,Overweight,Summer,1,0,289,36,13,94,0,1,2,1,0,1,90,172,1
+256,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",8,22,58,3,"Healthy Weight",Summer,1,0,228,14,16,94,0,1,2,0,0,1,65,172,8
+257,"Diseases of the musculoskeletal system and connective tissue",8,25,43,5,"Healthy Weight",Summer,1,0,300,26,13,94,0,1,2,1,1,1,77,175,1
+258,"Diseases of the genitourinary system",8,25,43,5,"Healthy Weight",Summer,1,0,300,26,13,94,0,1,2,1,1,1,77,175,2
+259,"dental consultation ",8,23,36,6,"Healthy Weight",Summer,1,0,260,50,11,94,0,1,4,1,0,0,65,168,4
+260,"medical consultation ",8,30,33,3,Overweight,Summer,1,0,289,36,13,94,0,1,2,1,0,1,90,172,4
+261,"medical consultation ",8,32,47,4,Obese,Summer,1,0,248,25,14,94,0,1,2,0,0,1,86,165,1
+262,"Diseases of the digestive system",8,25,33,5,"Healthy Weight",Summer,1,0,268,11,8,94,0,2,0,0,0,0,79,178,8
+263,"medical consultation ",8,19,30,5,"Healthy Weight",Summer,1,0,179,26,9,94,0,3,0,0,0,0,56,171,1
+264,"Diseases of the musculoskeletal system and connective tissue",8,31,50,5,Obese,Summer,1,0,118,13,18,94,0,1,1,1,0,0,98,178,3
+265,"laboratory examination ",8,32,47,2,Obese,Summer,1,0,248,25,14,94,0,1,2,0,0,1,86,165,2
+266,"medical consultation ",8,29,37,3,Overweight,Summer,1,0,235,11,14,94,0,3,1,0,0,1,88,172,1
+267,"medical consultation ",8,31,50,5,Obese,Summer,1,0,118,13,18,94,0,1,1,1,0,0,98,178,1
+268,"Injury, poisoning and certain other consequences of external causes",8,29,37,5,Overweight,Summer,1,0,235,11,14,94,0,3,1,0,0,1,88,172,8
+269,"Diseases of the ear and mastoid process",8,27,28,3,Overweight,Summer,1,0,361,52,3,94,0,1,1,1,0,4,80,172,8
+270,"Diseases of the nervous system",8,21,27,4,"Healthy Weight",Summer,1,0,184,42,7,94,0,1,0,0,0,0,58,167,8
+271,"Diseases of the digestive system",9,31,38,2,Obese,Autumn,1,0,179,51,18,81,0,1,0,1,0,0,89,170,8
+272,"medical consultation ",9,31,38,6,Obese,Autumn,1,0,179,51,18,81,0,1,0,1,0,0,89,170,3
+273,"Injury, poisoning and certain other consequences of external causes",9,30,33,4,Overweight,Autumn,1,0,289,36,13,81,0,1,2,1,0,1,90,172,24
+274,Unkown,9,38,43,5,Obese,Autumn,1,1,235,20,13,81,1,1,1,1,0,0,106,167,0
+275,"Diseases of the circulatory system",9,23,41,2,"Healthy Weight",Autumn,1,0,246,25,16,81,0,1,0,1,0,0,67,170,16
+276,"dental consultation ",9,25,40,3,"Healthy Weight",Autumn,1,0,291,31,12,81,0,1,1,1,0,1,73,171,3
+277,Unkown,9,35,39,3,Obese,Autumn,1,1,231,35,14,81,1,1,2,1,0,2,100,170,0
+278,Unkown,9,23,32,3,"Healthy Weight",Autumn,1,1,291,50,12,81,1,1,0,1,0,0,65,169,0
+279,"Diseases of the musculoskeletal system and connective tissue",9,31,38,4,Obese,Autumn,1,0,179,51,18,81,0,1,0,1,0,0,89,170,8
+280,"Diseases of the circulatory system",9,23,41,4,"Healthy Weight",Autumn,1,0,246,25,16,81,0,1,0,1,0,0,67,170,32
+281,"medical consultation ",9,31,38,5,Obese,Autumn,1,0,179,51,18,81,0,1,0,1,0,0,89,170,1
+282,"dental consultation ",9,25,40,6,"Healthy Weight",Autumn,1,0,291,31,12,81,0,1,1,1,0,1,73,171,4
+283,"dental consultation ",9,23,36,6,"Healthy Weight",Autumn,1,0,260,50,11,81,0,1,4,1,0,0,65,168,4
+284,"unjustified absence ",9,38,43,4,Obese,Autumn,4,0,235,20,13,81,0,1,1,1,0,0,106,167,8
+285,"dental consultation ",9,31,50,5,Obese,Autumn,4,0,118,13,18,81,0,1,1,1,0,0,98,178,1
+286,Unkown,9,38,43,5,Obese,Autumn,4,1,235,20,13,81,1,1,1,1,0,0,106,167,0
+287,"dental consultation ",9,25,40,6,"Healthy Weight",Autumn,4,0,291,31,12,81,0,1,1,1,0,1,73,171,3
+288,"Diseases of the eye and adnexa",9,25,40,2,"Healthy Weight",Autumn,4,0,291,31,12,81,0,1,1,1,0,1,73,171,40
+289,"Diseases of the musculoskeletal system and connective tissue",9,31,38,2,Obese,Autumn,4,0,179,51,18,81,0,1,0,1,0,0,89,170,8
+290,"blood donation",10,30,33,2,Overweight,Autumn,4,0,289,36,13,88,0,1,2,1,0,1,90,172,8
+291,"unjustified absence ",10,29,37,2,Overweight,Autumn,4,0,235,11,14,88,0,3,1,0,0,1,88,172,4
+292,"unjustified absence ",10,30,33,2,Overweight,Autumn,4,0,289,36,13,88,0,1,2,1,0,1,90,172,8
+293,"patient follow-up ",10,30,33,6,Overweight,Autumn,4,0,289,36,13,88,0,1,2,1,0,1,90,172,8
+294,Unkown,10,31,50,6,Obese,Autumn,4,1,118,13,18,88,1,1,1,1,0,0,98,178,0
+295,Unkown,10,32,47,6,Obese,Autumn,4,1,248,25,14,88,1,1,2,0,0,1,86,165,0
+296,"Certain infectious and parasitic diseases",10,19,30,2,"Healthy Weight",Autumn,4,0,179,26,9,88,0,3,0,0,0,0,56,171,8
+297,"Diseases of the eye and adnexa",10,28,37,2,Overweight,Autumn,4,0,118,10,10,88,0,1,0,0,0,0,83,172,3
+298,"patient follow-up ",10,25,31,2,"Healthy Weight",Autumn,4,0,369,17,12,88,0,1,3,1,0,0,70,169,8
+299,"dental consultation ",10,31,38,4,Obese,Autumn,4,0,179,51,18,88,0,1,0,1,0,0,89,170,1
+300,"Certain infectious and parasitic diseases",10,19,30,4,"Healthy Weight",Autumn,4,0,179,26,9,88,0,3,0,0,0,0,56,171,64
+301,Unkown,10,38,43,4,Obese,Autumn,4,1,235,20,13,88,1,1,1,1,0,0,106,167,0
+302,"Injury, poisoning and certain other consequences of external causes",10,30,33,5,Overweight,Autumn,4,0,289,36,13,88,0,1,2,1,0,1,90,172,16
+303,"dental consultation ",10,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,88,0,1,4,1,0,0,65,168,3
+304,Unkown,10,38,43,6,Obese,Autumn,4,1,235,20,13,88,1,1,1,1,0,0,106,167,0
+305,"medical consultation ",10,38,43,2,Obese,Autumn,4,0,235,20,13,88,0,1,1,1,0,0,106,167,2
+306,"medical consultation ",10,38,43,2,Obese,Autumn,4,0,235,20,13,88,0,1,1,1,0,0,106,167,2
+307,"dental consultation ",10,31,50,3,Obese,Autumn,4,0,118,13,18,88,0,1,1,1,0,0,98,178,1
+308,"dental consultation ",10,25,40,3,"Healthy Weight",Autumn,4,0,291,31,12,88,0,1,1,1,0,1,73,171,4
+309,"medical consultation ",10,19,30,5,"Healthy Weight",Autumn,4,0,179,26,9,88,0,3,0,0,0,0,56,171,16
+310,"dental consultation ",10,31,50,5,Obese,Autumn,4,0,118,13,18,88,0,1,1,1,0,0,98,178,1
+311,"Diseases of the respiratory system",10,27,28,2,Overweight,Autumn,4,0,361,52,3,88,0,1,1,1,0,4,80,172,8
+312,Unkown,10,23,36,3,"Healthy Weight",Autumn,4,1,260,50,11,88,1,1,4,1,0,0,65,168,0
+313,Unkown,10,25,40,3,"Healthy Weight",Autumn,4,1,291,31,12,88,1,1,1,1,0,1,73,171,0
+314,Unkown,10,22,29,3,"Healthy Weight",Autumn,4,1,157,27,6,88,1,1,0,1,1,0,75,185,0
+315,"Certain infectious and parasitic diseases",10,19,30,4,"Healthy Weight",Autumn,4,0,179,26,9,88,0,3,0,0,0,0,56,171,5
+316,"Diseases of the eye and adnexa",10,19,30,4,"Healthy Weight",Autumn,4,0,179,26,9,88,0,3,0,0,0,0,56,171,5
+317,"medical consultation ",10,31,50,5,Obese,Autumn,4,0,118,13,18,88,0,1,1,1,0,0,98,178,1
+318,"Diseases of the digestive system",11,28,37,2,Overweight,Autumn,4,0,118,10,10,97,0,1,0,0,0,0,83,172,8
+319,"medical consultation ",11,32,47,2,Obese,Autumn,4,0,248,25,14,97,0,1,2,0,0,1,86,165,2
+320,"Diseases of the nervous system",11,31,38,3,Obese,Autumn,4,0,179,51,18,97,0,1,0,1,0,0,89,170,8
+321,"dental consultation ",11,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,97,0,1,4,1,0,0,65,168,3
+322,"medical consultation ",11,25,40,2,"Healthy Weight",Autumn,4,0,291,31,12,97,0,1,1,1,0,1,73,171,1
+323,"Certain infectious and parasitic diseases",11,21,36,2,"Healthy Weight",Autumn,4,0,378,49,11,97,0,1,2,0,1,4,65,174,8
+324,"Diseases of the digestive system",11,25,34,2,"Healthy Weight",Autumn,4,0,155,12,14,97,0,1,2,1,0,0,95,196,120
+325,"unjustified absence ",11,38,43,2,Obese,Autumn,4,0,235,20,13,97,0,1,1,1,0,0,106,167,8
+326,Unkown,11,25,28,3,"Healthy Weight",Autumn,4,1,330,16,4,97,1,2,0,0,0,0,84,182,0
+327,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",11,29,37,4,Overweight,Autumn,4,0,235,11,14,97,0,3,1,0,0,1,88,172,1
+328,"Diseases of the digestive system",11,28,37,4,Overweight,Autumn,4,0,118,10,10,97,0,1,0,0,0,0,83,172,3
+329,"laboratory examination ",11,29,37,5,Overweight,Autumn,4,0,235,11,14,97,0,3,1,0,0,1,88,172,2
+330,"dental consultation ",11,31,38,5,Obese,Autumn,4,0,179,51,18,97,0,1,0,1,0,0,89,170,3
+331,"Diseases of the musculoskeletal system and connective tissue",11,23,41,6,"Healthy Weight",Autumn,4,0,246,25,16,97,0,1,0,1,0,0,67,170,8
+332,"Diseases of the skin and subcutaneous tissue",11,25,40,6,"Healthy Weight",Autumn,4,0,291,31,12,97,0,1,1,1,0,1,73,171,4
+333,"Diseases of the musculoskeletal system and connective tissue",11,23,41,2,"Healthy Weight",Autumn,4,0,246,25,16,97,0,1,0,1,0,0,67,170,8
+334,"dental consultation ",11,31,38,3,Obese,Autumn,4,0,179,51,18,97,0,1,0,1,0,0,89,170,1
+335,"Diseases of the respiratory system",11,23,36,4,"Healthy Weight",Autumn,4,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+336,"Pregnancy, childbirth and the puerperium",11,23,36,6,"Healthy Weight",Autumn,4,0,260,50,11,97,0,1,4,1,0,0,65,168,8
+337,Unkown,11,21,36,6,"Healthy Weight",Autumn,4,1,378,49,11,97,1,1,2,0,1,4,65,174,0
+338,Unkown,11,24,39,3,"Healthy Weight",Autumn,4,1,279,5,14,97,1,1,2,1,1,0,68,168,0
+339,"medical consultation ",11,31,38,5,Obese,Autumn,4,0,179,51,18,97,0,1,0,1,0,0,89,170,1
+340,"Diseases of the skin and subcutaneous tissue",12,24,28,2,"Healthy Weight",Winter,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+341,"dental consultation ",12,31,38,2,Obese,Winter,4,0,179,51,18,93,0,1,0,1,0,0,89,170,2
+342,"dental consultation ",12,31,38,2,Obese,Winter,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+343,"medical consultation ",12,29,37,2,Overweight,Winter,4,0,235,11,14,93,0,3,1,0,0,1,88,172,3
+344,"dental consultation ",12,31,50,3,Obese,Winter,4,0,118,13,18,93,0,1,1,1,0,0,98,178,1
+345,"dental consultation ",12,23,36,6,"Healthy Weight",Winter,4,0,260,50,11,93,0,1,4,1,0,0,65,168,4
+346,"Endocrine, nutritional and metabolic diseases",12,23,41,5,"Healthy Weight",Winter,4,0,246,25,16,93,0,1,0,1,0,0,67,170,8
+347,"dental consultation ",12,31,38,5,Obese,Winter,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+348,"dental consultation ",12,31,38,6,Obese,Winter,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+349,"medical consultation ",12,19,30,3,"Healthy Weight",Winter,4,0,179,26,9,93,0,3,0,0,0,0,56,171,1
+350,"laboratory examination ",12,28,37,3,Overweight,Winter,4,0,118,10,10,93,0,1,0,0,0,0,83,172,8
+351,"laboratory examination ",12,29,37,5,Overweight,Winter,4,0,235,11,14,93,0,3,1,0,0,1,88,172,2
+352,"dental consultation ",12,31,38,6,Obese,Winter,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+353,"Diseases of the musculoskeletal system and connective tissue",12,38,43,3,Obese,Winter,2,0,235,20,13,93,0,1,1,1,0,0,106,167,8
+354,"Diseases of the genitourinary system",12,29,37,3,Overweight,Winter,2,0,235,11,14,93,0,3,1,0,0,1,88,172,4
+355,"unjustified absence ",12,23,36,4,"Healthy Weight",Winter,2,0,260,50,11,93,0,1,4,1,0,0,65,168,8
+356,"dental consultation ",12,22,29,2,"Healthy Weight",Winter,2,0,157,27,6,93,0,1,0,1,1,0,75,185,2
+357,"dental consultation ",12,31,38,2,Obese,Winter,2,0,179,51,18,93,0,1,0,1,0,0,89,170,3
+358,"Injury, poisoning and certain other consequences of external causes",12,30,33,2,Overweight,Winter,2,0,289,36,13,93,0,1,2,1,0,1,90,172,8
+359,"medical consultation ",1,24,28,4,"Healthy Weight",Winter,2,0,225,26,9,100,0,1,1,0,0,2,69,169,5
+360,"Injury, poisoning and certain other consequences of external causes",1,28,37,2,Overweight,Winter,2,0,118,10,10,100,0,1,0,0,0,0,83,172,32
+361,"medical consultation ",1,25,34,2,"Healthy Weight",Winter,2,0,155,12,14,100,0,1,2,1,0,0,95,196,2
+362,"Diseases of the musculoskeletal system and connective tissue",1,29,37,3,Overweight,Winter,2,0,235,11,14,100,0,3,1,0,0,1,88,172,1
+363,"medical consultation ",1,25,34,3,"Healthy Weight",Winter,2,0,155,12,14,100,0,1,2,1,0,0,95,196,4
+364,"unjustified absence ",1,30,33,2,Overweight,Winter,2,0,289,36,13,100,0,1,2,1,0,1,90,172,8
+365,"Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",1,25,40,4,"Healthy Weight",Winter,2,0,291,31,12,100,0,1,1,1,0,1,73,171,8
+366,"unjustified absence ",1,38,43,2,Obese,Winter,2,0,235,20,13,100,0,1,1,1,0,0,106,167,8
+367,"unjustified absence ",1,31,50,2,Obese,Winter,2,0,118,13,18,100,0,1,1,1,0,0,98,178,4
+368,"dental consultation ",1,31,38,4,Obese,Winter,2,0,179,51,18,100,0,1,0,1,0,0,89,170,1
+369,"dental consultation ",1,31,38,6,Obese,Winter,2,0,179,51,18,100,0,1,0,1,0,0,89,170,1
+370,"dental consultation ",2,28,37,3,Overweight,Winter,2,0,118,10,10,96,0,1,0,0,0,0,83,172,2
+371,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+372,"Diseases of the eye and adnexa",2,24,28,4,"Healthy Weight",Winter,2,0,225,26,9,96,0,1,1,0,0,2,69,169,1
+373,"patient follow-up ",2,30,33,6,Overweight,Winter,2,0,289,36,13,96,0,1,2,1,0,1,90,172,3
+374,"dental consultation ",2,23,36,6,"Healthy Weight",Winter,2,0,260,50,11,96,0,1,4,1,0,0,65,168,3
+375,"medical consultation ",2,31,38,6,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+376,"physiotherapy ",2,31,38,2,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,2
+377,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+378,"Diseases of the respiratory system",2,31,38,5,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,8
+379,"unjustified absence ",2,23,41,5,"Healthy Weight",Winter,2,0,246,25,16,96,0,1,0,1,0,0,67,170,8
+380,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+381,"patient follow-up ",2,25,33,2,"Healthy Weight",Winter,2,0,189,29,13,96,0,1,2,0,0,2,69,167,8
+382,"physiotherapy ",2,31,38,2,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+383,"medical consultation ",2,23,41,3,"Healthy Weight",Winter,2,0,246,25,16,96,0,1,0,1,0,0,67,170,2
+384,"medical consultation ",2,25,40,3,"Healthy Weight",Winter,2,0,291,31,12,96,0,1,1,1,0,1,73,171,2
+385,"Diseases of the digestive system",2,22,29,4,"Healthy Weight",Winter,2,0,157,27,6,96,0,1,0,1,1,0,75,185,16
+386,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+387,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+388,"Diseases of the respiratory system",2,23,41,6,"Healthy Weight",Winter,2,0,246,25,16,96,0,1,0,1,0,0,67,170,24
+389,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+390,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+391,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",3,28,37,3,Overweight,Spring,2,0,118,10,10,98,0,1,0,0,0,0,83,172,8
+392,"Injury, poisoning and certain other consequences of external causes",3,23,41,4,"Healthy Weight",Spring,2,0,246,25,16,98,0,1,0,1,0,0,67,170,16
+393,"dental consultation ",3,23,41,6,"Healthy Weight",Spring,2,0,246,25,16,98,0,1,0,1,0,0,67,170,2
+394,"dental consultation ",3,23,36,6,"Healthy Weight",Spring,2,0,260,50,11,98,0,1,4,1,0,0,65,168,4
+395,"dental consultation ",3,31,38,2,Obese,Spring,2,0,179,51,18,98,0,1,0,1,0,0,89,170,2
+396,"patient follow-up ",3,29,37,2,Overweight,Spring,2,0,235,11,14,98,0,3,1,0,0,1,88,172,8
+397,"patient follow-up ",3,22,40,3,"Healthy Weight",Spring,2,0,179,22,17,98,0,2,2,0,1,0,63,170,8
+398,"patient follow-up ",3,21,36,3,"Healthy Weight",Spring,2,0,378,49,11,98,0,1,2,0,1,4,65,174,8
+399,"dental consultation ",3,31,38,2,Obese,Spring,2,0,179,51,18,98,0,1,0,1,0,0,89,170,16
+400,"patient follow-up ",3,27,28,4,Overweight,Spring,2,0,361,52,3,98,0,1,1,1,0,4,80,172,8
+401,Unkown,3,25,31,4,"Healthy Weight",Spring,2,1,369,17,12,98,1,1,3,1,0,0,70,169,0
+402,"Factors influencing health status and contact with health services.",3,29,37,5,Overweight,Spring,2,0,235,11,14,98,0,3,1,0,0,1,88,172,8
+403,"medical consultation ",3,31,50,6,Obese,Spring,3,0,118,13,18,98,0,1,1,1,0,0,98,178,2
+404,"Diseases of the genitourinary system",3,31,50,3,Obese,Spring,3,0,118,13,18,98,0,1,1,1,0,0,98,178,3
+405,"Diseases of the musculoskeletal system and connective tissue",3,31,50,4,Obese,Spring,3,0,118,13,18,98,0,1,1,1,0,0,98,178,8
+406,Unkown,3,29,37,5,Overweight,Spring,3,1,235,11,14,98,1,3,1,0,0,1,88,172,0
+407,Unkown,3,23,41,5,"Healthy Weight",Spring,3,1,246,25,16,98,1,1,0,1,0,0,67,170,0
+408,Unkown,3,31,50,5,Obese,Spring,3,1,118,13,18,98,1,1,1,1,0,0,98,178,0
+409,"dental consultation ",3,31,38,6,Obese,Spring,3,0,179,51,18,98,0,1,0,1,0,0,89,170,8
+410,"patient follow-up ",3,30,33,6,Overweight,Spring,3,0,289,36,13,98,0,1,2,1,0,1,90,172,8
+411,"Injury, poisoning and certain other consequences of external causes",3,23,36,2,"Healthy Weight",Spring,3,0,260,50,11,98,0,1,4,1,0,0,65,168,8
+412,"dental consultation ",3,23,41,3,"Healthy Weight",Spring,3,0,246,25,16,98,0,1,0,1,0,0,67,170,2
+413,"dental consultation ",4,31,38,4,Obese,Spring,3,0,179,51,18,98,0,1,0,1,0,0,89,170,4
+414,"dental consultation ",4,23,36,6,"Healthy Weight",Spring,3,0,260,50,11,98,0,1,4,1,0,0,65,168,3
+415,"unjustified absence ",4,25,28,6,"Healthy Weight",Spring,3,0,330,16,4,98,0,2,0,0,0,0,84,182,4
+416,"patient follow-up ",4,25,31,2,"Healthy Weight",Spring,3,0,369,17,12,98,0,1,3,1,0,0,70,169,4
+417,"unjustified absence ",4,32,47,2,Obese,Spring,3,0,248,25,14,98,0,1,2,0,0,1,86,165,4
+418,"medical consultation ",4,25,28,4,"Healthy Weight",Spring,3,0,330,16,4,98,0,2,0,0,0,0,84,182,8
+419,"dental consultation ",4,31,38,4,Obese,Spring,3,0,179,51,18,98,0,1,0,1,0,0,89,170,8
+420,"medical consultation ",4,31,50,2,Obese,Spring,3,0,118,13,18,98,0,1,1,1,0,0,98,178,1
+421,"Diseases of the musculoskeletal system and connective tissue",4,31,50,4,Obese,Spring,3,0,118,13,18,98,0,1,1,1,0,0,98,178,120
+422,"dental consultation ",4,25,43,6,"Healthy Weight",Spring,3,0,300,26,13,98,0,1,2,1,1,1,77,175,8
+423,"dental consultation ",4,23,36,6,"Healthy Weight",Spring,3,0,260,50,11,98,0,1,4,1,0,0,65,168,4
+424,"dental consultation ",4,31,38,2,Obese,Spring,3,0,179,51,18,98,0,1,0,1,0,0,89,170,4
+425,"Diseases of the digestive system",4,28,37,4,Overweight,Spring,3,0,118,10,10,98,0,1,0,0,0,0,83,172,2
+426,"Diseases of the musculoskeletal system and connective tissue",5,38,43,2,Obese,Spring,3,0,235,20,13,99,0,1,1,1,0,0,106,167,16
+427,"medical consultation ",5,32,47,4,Obese,Spring,3,0,248,25,14,99,0,1,2,0,0,1,86,165,2
+428,"Diseases of the respiratory system",5,25,31,2,"Healthy Weight",Spring,3,0,369,17,12,99,0,1,3,1,0,0,70,169,8
+429,"medical consultation ",5,19,30,4,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,3
+430,"dental consultation ",5,31,38,4,Obese,Spring,3,0,179,51,18,99,0,1,0,1,0,0,89,170,4
+431,"medical consultation ",5,27,28,5,Overweight,Spring,3,0,361,52,3,99,0,1,1,1,0,4,80,172,1
+432,"dental consultation ",5,23,36,6,"Healthy Weight",Spring,3,0,260,50,11,99,0,1,4,1,0,0,65,168,3
+433,"Diseases of the digestive system",5,22,40,2,"Healthy Weight",Spring,3,0,179,22,17,99,0,2,2,0,1,0,63,170,2
+434,"Diseases of the ear and mastoid process",5,22,40,2,"Healthy Weight",Spring,3,0,179,22,17,99,0,2,2,0,1,0,63,170,3
+435,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",5,22,58,4,"Healthy Weight",Spring,3,0,228,14,16,99,0,1,2,0,0,1,65,172,8
+436,"laboratory examination ",5,24,28,4,"Healthy Weight",Spring,3,0,225,26,9,99,0,1,1,0,0,2,69,169,3
+437,"Diseases of the musculoskeletal system and connective tissue",5,25,28,6,"Healthy Weight",Spring,3,0,330,16,4,99,0,2,0,0,0,0,84,182,8
+438,"laboratory examination ",5,19,30,2,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+439,"dental consultation ",5,28,37,2,Overweight,Spring,3,0,118,10,10,99,0,1,0,0,0,0,83,172,1
+440,"Certain infectious and parasitic diseases",5,29,37,2,Overweight,Spring,3,0,235,11,14,99,0,3,1,0,0,1,88,172,8
+441,"medical consultation ",5,19,30,4,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,3
+442,"medical consultation ",6,28,37,2,Overweight,Summer,3,0,118,10,10,95,0,1,0,0,0,0,83,172,3
+443,"dental consultation ",6,31,38,2,Obese,Summer,3,0,179,51,18,95,0,1,0,1,0,0,89,170,3
+444,"dental consultation ",6,28,37,3,Overweight,Summer,3,0,118,10,10,95,0,1,0,0,0,0,83,172,2
+445,"medical consultation ",6,24,28,5,"Healthy Weight",Summer,3,0,225,26,9,95,0,1,1,0,0,2,69,169,4
+446,"dental consultation ",6,23,36,6,"Healthy Weight",Summer,3,0,260,50,11,95,0,1,4,1,0,0,65,168,4
+447,Unkown,6,31,38,6,Obese,Summer,3,1,179,51,18,95,1,1,0,1,0,0,89,170,0
+448,"Diseases of the musculoskeletal system and connective tissue",6,25,40,2,"Healthy Weight",Summer,3,0,291,31,12,95,0,1,1,1,0,1,73,171,40
+449,"dental consultation ",6,31,38,2,Obese,Summer,3,0,179,51,18,95,0,1,0,1,0,0,89,170,24
+450,"dental consultation ",6,23,41,3,"Healthy Weight",Summer,3,0,246,25,16,95,0,1,0,1,0,0,67,170,3
+451,"dental consultation ",6,31,38,2,Obese,Summer,3,0,179,51,18,95,0,1,0,1,0,0,89,170,4
+452,"unjustified absence ",6,38,43,3,Obese,Summer,3,0,235,20,13,95,0,1,1,1,0,0,106,167,8
+453,"dental consultation ",6,31,38,2,Obese,Summer,1,0,179,51,18,95,0,1,0,1,0,0,89,170,2
+454,"medical consultation ",6,24,28,4,"Healthy Weight",Summer,1,0,225,26,9,95,0,1,1,0,0,2,69,169,2
+455,"medical consultation ",6,31,50,4,Obese,Summer,1,0,118,13,18,95,0,1,1,1,0,0,98,178,2
+456,"Mental and behavioural disorders",6,31,38,4,Obese,Summer,1,0,179,51,18,95,0,1,0,1,0,0,89,170,8
+457,"Factors influencing health status and contact with health services.",6,19,30,4,"Healthy Weight",Summer,1,0,179,26,9,95,0,3,0,0,0,0,56,171,2
+458,"dental consultation ",6,23,41,6,"Healthy Weight",Summer,1,0,246,25,16,95,0,1,0,1,0,0,67,170,2
+459,"Diseases of the digestive system",6,25,28,3,"Healthy Weight",Summer,1,0,330,16,4,95,0,2,0,0,0,0,84,182,1
+460,"Diseases of the musculoskeletal system and connective tissue",6,29,37,3,Overweight,Summer,1,0,235,11,14,95,0,3,1,0,0,1,88,172,8
+461,"medical consultation ",7,19,30,5,"Healthy Weight",Summer,1,0,179,26,9,92,0,3,0,0,0,0,56,171,2
+462,"laboratory examination ",7,24,28,5,"Healthy Weight",Summer,1,0,225,26,9,92,0,1,1,0,0,2,69,169,4
+463,"Diseases of the musculoskeletal system and connective tissue",7,23,36,6,"Healthy Weight",Summer,1,0,260,50,11,92,0,1,4,1,0,0,65,168,8
+464,"Diseases of the eye and adnexa",7,25,33,2,"Healthy Weight",Summer,1,0,268,11,8,92,0,2,0,0,0,0,79,178,8
+465,"laboratory examination ",7,25,28,6,"Healthy Weight",Summer,1,0,330,16,4,92,0,2,0,0,0,0,84,182,8
+466,"unjustified absence ",7,28,37,6,Overweight,Summer,1,0,118,10,10,92,0,1,0,0,0,0,83,172,8
+467,"unjustified absence ",7,23,36,2,"Healthy Weight",Summer,1,0,260,50,11,92,0,1,4,1,0,0,65,168,4
+468,"dental consultation ",7,28,37,3,Overweight,Summer,1,0,118,10,10,92,0,1,0,0,0,0,83,172,8
+469,"Pregnancy, childbirth and the puerperium",7,25,43,2,"Healthy Weight",Summer,1,0,300,26,13,92,0,1,2,1,1,1,77,175,8
+470,"medical consultation ",7,33,48,2,Obese,Summer,1,0,235,29,12,92,0,1,1,0,1,5,88,163,1
+471,"dental consultation ",7,23,41,3,"Healthy Weight",Summer,1,0,246,25,16,92,0,1,0,1,0,0,67,170,2
+472,"Diseases of the circulatory system",7,24,28,3,"Healthy Weight",Summer,1,0,225,26,9,92,0,1,1,0,0,2,69,169,112
+473,"dental consultation ",7,31,38,3,Obese,Summer,1,0,179,51,18,92,0,1,0,1,0,0,89,170,1
+474,"medical consultation ",7,31,50,6,Obese,Summer,1,0,118,13,18,92,0,1,1,1,0,0,98,178,1
+475,"patient follow-up ",7,27,28,6,Overweight,Summer,1,0,361,52,3,92,0,1,1,1,0,4,80,172,8
+476,"patient follow-up ",7,30,33,2,Overweight,Summer,1,0,289,36,13,92,0,1,2,1,0,1,90,172,8
+477,"unjustified absence ",7,38,43,2,Obese,Summer,1,0,235,20,13,92,0,1,1,1,0,0,106,167,8
+478,"dental consultation ",7,23,41,3,"Healthy Weight",Summer,1,0,246,25,16,92,0,1,0,1,0,0,67,170,2
+479,"dental consultation ",7,25,40,5,"Healthy Weight",Summer,1,0,291,31,12,92,0,1,1,1,0,1,73,171,1
+480,"medical consultation ",7,24,39,5,"Healthy Weight",Summer,1,0,279,5,14,92,0,1,2,1,1,0,68,168,2
+481,"laboratory examination ",8,31,38,5,Obese,Summer,1,0,179,51,18,93,0,1,0,1,0,0,89,170,4
+482,"laboratory examination ",8,22,40,2,"Healthy Weight",Summer,1,0,179,22,17,93,0,2,2,0,1,0,63,170,1
+483,"dental consultation ",8,23,41,3,"Healthy Weight",Summer,1,0,246,25,16,93,0,1,0,1,0,0,67,170,4
+484,"dental consultation ",8,28,37,3,Overweight,Summer,1,0,118,10,10,93,0,1,0,0,0,0,83,172,4
+485,"unjustified absence ",8,30,33,3,Overweight,Summer,1,0,289,36,13,93,0,1,2,1,0,1,90,172,8
+486,"unjustified absence ",8,38,43,3,Obese,Summer,1,0,235,20,13,93,0,1,1,1,0,0,106,167,8
+487,"dental consultation ",8,25,40,5,"Healthy Weight",Summer,1,0,291,31,12,93,0,1,1,1,0,1,73,171,4
+488,"laboratory examination ",8,31,38,2,Obese,Summer,1,0,179,51,18,93,0,1,0,1,0,0,89,170,4
+489,"laboratory examination ",8,22,40,3,"Healthy Weight",Summer,1,0,179,22,17,93,0,2,2,0,1,0,63,170,8
+490,"medical consultation ",8,25,28,5,"Healthy Weight",Summer,1,0,330,16,4,93,0,2,0,0,0,0,84,182,16
+491,"medical consultation ",8,29,37,3,Overweight,Summer,1,0,235,11,14,93,0,3,1,0,0,1,88,172,4
+492,"dental consultation ",8,23,41,3,"Healthy Weight",Summer,1,0,246,25,16,93,0,1,0,1,0,0,67,170,1
+493,"dental consultation ",8,28,37,3,Overweight,Summer,1,0,118,10,10,93,0,1,0,0,0,0,83,172,5
+494,"dental consultation ",8,25,40,5,"Healthy Weight",Summer,1,0,291,31,12,93,0,1,1,1,0,1,73,171,2
+495,"dental consultation ",8,23,36,2,"Healthy Weight",Summer,1,0,260,50,11,93,0,1,4,1,0,0,65,168,3
+496,"dental consultation ",9,23,41,3,"Healthy Weight",Autumn,1,0,246,25,16,87,0,1,0,1,0,0,67,170,1
+497,"dental consultation ",9,23,41,3,"Healthy Weight",Autumn,1,0,246,25,16,87,0,1,0,1,0,0,67,170,1
+498,"dental consultation ",9,28,37,3,Overweight,Autumn,1,0,118,10,10,87,0,1,0,0,0,0,83,172,3
+499,"medical consultation ",9,25,34,3,"Healthy Weight",Autumn,1,0,155,12,14,87,0,1,2,1,0,0,95,196,2
+500,"dental consultation ",9,25,40,5,"Healthy Weight",Autumn,1,0,291,31,12,87,0,1,1,1,0,1,73,171,2
+501,"medical consultation ",9,19,30,6,"Healthy Weight",Autumn,1,0,179,26,9,87,0,3,0,0,0,0,56,171,8
+502,"medical consultation ",9,32,47,6,Obese,Autumn,1,0,248,25,14,87,0,1,2,0,0,1,86,165,1
+503,"medical consultation ",9,31,38,2,Obese,Autumn,1,0,179,51,18,87,0,1,0,1,0,0,89,170,4
+504,"medical consultation ",9,24,28,4,"Healthy Weight",Autumn,1,0,225,26,9,87,0,1,1,0,0,2,69,169,1
+505,"medical consultation ",9,19,30,2,"Healthy Weight",Autumn,1,0,179,26,9,87,0,3,0,0,0,0,56,171,2
+506,"medical consultation ",9,25,31,3,"Healthy Weight",Autumn,4,0,369,17,12,87,0,1,3,1,0,0,70,169,8
+507,"patient follow-up ",9,27,28,3,Overweight,Autumn,4,0,361,52,3,87,0,1,1,1,0,4,80,172,8
+508,"Endocrine, nutritional and metabolic diseases",10,36,49,5,Obese,Autumn,4,0,289,48,29,91,0,1,0,0,0,2,108,172,1
+509,"Diseases of the digestive system",10,25,32,5,"Healthy Weight",Autumn,4,0,235,16,8,91,0,3,0,0,0,0,75,178,3
+510,"unjustified absence ",10,23,41,6,"Healthy Weight",Autumn,4,0,246,25,16,91,0,1,0,1,0,0,67,170,8
+511,"Diseases of the genitourinary system",10,36,49,4,Obese,Autumn,4,0,289,48,29,91,0,1,0,0,0,2,108,172,3
+512,"dental consultation ",10,25,40,4,"Healthy Weight",Autumn,4,0,291,31,12,91,0,1,1,1,0,1,73,171,2
+513,"medical consultation ",10,28,37,3,Overweight,Autumn,4,0,118,10,10,91,0,1,0,0,0,0,83,172,2
+514,"medical consultation ",10,36,49,5,Obese,Autumn,4,0,289,48,29,91,0,1,0,0,0,2,108,172,2
+515,"medical consultation ",10,25,40,6,"Healthy Weight",Autumn,4,0,291,31,12,91,0,1,1,1,0,1,73,171,1
+516,"medical consultation ",10,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,91,0,1,1,0,0,2,69,169,2
+517,"medical consultation ",10,25,31,3,"Healthy Weight",Autumn,4,0,369,17,12,91,0,1,3,1,0,0,70,169,8
+518,"medical consultation ",10,25,31,3,"Healthy Weight",Autumn,4,0,369,17,12,91,0,1,3,1,0,0,70,169,3
+519,"medical consultation ",10,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,91,0,1,1,0,0,2,69,169,4
+520,"unjustified absence ",10,25,31,3,"Healthy Weight",Autumn,4,0,369,17,12,91,0,1,3,1,0,0,70,169,8
+521,"dental consultation ",10,31,38,4,Obese,Autumn,4,0,179,51,18,91,0,1,0,1,0,0,89,170,3
+522,"Certain infectious and parasitic diseases",10,22,58,4,"Healthy Weight",Autumn,4,0,228,14,16,91,0,1,2,0,0,1,65,172,1
+523,"medical consultation ",10,25,40,4,"Healthy Weight",Autumn,4,0,291,31,12,91,0,1,1,1,0,1,73,171,1
+524,"Diseases of the respiratory system",10,25,31,5,"Healthy Weight",Autumn,4,0,369,17,12,91,0,1,3,1,0,0,70,169,8
+525,"Diseases of the musculoskeletal system and connective tissue",10,24,28,5,"Healthy Weight",Autumn,4,0,225,26,9,91,0,1,1,0,0,2,69,169,1
+526,"Diseases of the respiratory system",10,25,31,6,"Healthy Weight",Autumn,4,0,369,17,12,91,0,1,3,1,0,0,70,169,8
+527,"Diseases of the respiratory system",10,24,28,6,"Healthy Weight",Autumn,4,0,225,26,9,91,0,1,1,0,0,2,69,169,3
+528,"medical consultation ",10,25,33,2,"Healthy Weight",Autumn,4,0,189,29,13,91,0,1,2,0,0,2,69,167,8
+529,"Diseases of the nervous system",10,25,32,2,"Healthy Weight",Autumn,4,0,235,16,8,91,0,3,0,0,0,0,75,178,8
+530,"Diseases of the respiratory system",10,32,47,2,Obese,Autumn,4,0,248,25,14,91,0,1,2,0,0,1,86,165,8
+531,Unkown,10,24,28,2,"Healthy Weight",Autumn,4,1,225,26,9,91,1,1,1,0,0,2,69,169,0
+532,"Diseases of the musculoskeletal system and connective tissue",10,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,91,0,1,1,0,0,2,69,169,3
+533,"Factors influencing health status and contact with health services.",11,31,38,3,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+534,"dental consultation ",11,28,37,4,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,3
+535,Neoplasms,11,25,28,4,"Healthy Weight",Autumn,4,0,330,16,4,93,0,2,0,0,0,0,84,182,24
+536,"dental consultation ",11,31,38,6,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+537,"Diseases of the circulatory system",11,28,37,3,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,8
+538,"blood donation",11,30,33,4,Overweight,Autumn,4,0,289,36,13,93,0,1,2,1,0,1,90,172,8
+539,"Certain infectious and parasitic diseases",11,25,32,6,"Healthy Weight",Autumn,4,0,235,16,8,93,0,3,0,0,0,0,75,178,8
+540,"medical consultation ",11,24,28,6,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,4
+541,"patient follow-up ",11,27,28,3,Overweight,Autumn,4,0,361,52,3,93,0,1,1,1,0,4,80,172,8
+542,"dental consultation ",11,25,40,4,"Healthy Weight",Autumn,4,0,291,31,12,93,0,1,1,1,0,1,73,171,2
+543,"Diseases of the musculoskeletal system and connective tissue",11,28,37,5,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,2
+544,"Diseases of the genitourinary system",11,24,28,5,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,3
+545,"dental consultation ",11,31,38,2,Obese,Autumn,4,0,179,51,18,93,0,1,0,1,0,0,89,170,1
+546,"medical consultation ",11,28,37,2,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,8
+547,"Diseases of the ear and mastoid process",11,28,37,3,Overweight,Autumn,4,0,118,10,10,93,0,1,0,0,0,0,83,172,8
+548,"medical consultation ",11,24,28,3,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,2
+549,Unkown,11,25,40,3,"Healthy Weight",Autumn,4,1,291,31,12,93,1,1,1,1,0,1,73,171,0
+550,Unkown,11,30,33,4,Overweight,Autumn,4,1,289,36,13,93,1,1,2,1,0,1,90,172,0
+551,"Diseases of the genitourinary system",11,32,47,5,Obese,Autumn,4,0,248,25,14,93,0,1,2,0,0,1,86,165,4
+552,Unkown,11,38,43,5,Obese,Autumn,4,1,235,20,13,93,1,1,1,1,0,0,106,167,0
+553,"medical consultation ",11,24,28,6,"Healthy Weight",Autumn,4,0,225,26,9,93,0,1,1,0,0,2,69,169,2
+554,"unjustified absence ",11,25,31,6,"Healthy Weight",Autumn,4,0,369,17,12,93,0,1,3,1,0,0,70,169,8
+555,"dental consultation ",11,27,28,2,Overweight,Autumn,4,0,361,52,3,93,0,1,1,1,0,4,80,172,2
+556,"Diseases of the musculoskeletal system and connective tissue",12,31,38,3,Obese,Winter,4,0,179,51,18,98,0,1,0,1,0,0,89,170,32
+557,"dental consultation ",12,25,40,4,"Healthy Weight",Winter,4,0,291,31,12,98,0,1,1,1,0,1,73,171,1
+558,"medical consultation ",12,24,28,4,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,3
+559,"Diseases of the musculoskeletal system and connective tissue",12,19,30,6,"Healthy Weight",Winter,4,0,179,26,9,98,0,3,0,0,0,0,56,171,1
+560,"medical consultation ",12,24,28,6,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,3
+561,"medical consultation ",12,24,28,4,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,3
+562,"Diseases of the genitourinary system",12,27,28,5,Overweight,Winter,4,0,361,52,3,98,0,1,1,1,0,4,80,172,4
+563,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,22,40,6,"Healthy Weight",Winter,4,0,179,22,17,98,0,2,2,0,1,0,63,170,2
+564,"unjustified absence ",12,38,43,6,Obese,Winter,4,0,235,20,13,98,0,1,1,1,0,0,106,167,8
+565,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,21,31,2,"Healthy Weight",Winter,4,0,233,51,1,98,0,2,1,1,0,8,68,178,8
+566,"Diseases of the musculoskeletal system and connective tissue",12,19,30,3,"Healthy Weight",Winter,4,0,179,26,9,98,0,3,0,0,0,0,56,171,16
+567,"medical consultation ",12,24,28,3,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,2
+568,"medical consultation ",12,24,28,5,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,3
+569,"medical consultation ",12,24,28,2,"Healthy Weight",Winter,4,0,225,26,9,98,0,1,1,0,0,2,69,169,2
+570,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",12,25,34,3,"Healthy Weight",Winter,2,0,155,12,14,98,0,1,2,1,0,0,95,196,80
+571,"Diseases of the skin and subcutaneous tissue",1,19,30,2,"Healthy Weight",Winter,2,0,179,26,9,96,0,3,0,0,0,0,56,171,24
+572,"Diseases of the skin and subcutaneous tissue",1,19,30,5,"Healthy Weight",Winter,2,0,179,26,9,96,0,3,0,0,0,0,56,171,16
+573,"laboratory examination ",1,22,40,5,"Healthy Weight",Winter,2,0,179,22,17,96,0,2,2,0,1,0,63,170,2
+574,"laboratory examination ",1,22,40,6,"Healthy Weight",Winter,2,0,179,22,17,96,0,2,2,0,1,0,63,170,2
+575,"Diseases of the musculoskeletal system and connective tissue",1,19,30,2,"Healthy Weight",Winter,2,0,179,26,9,96,0,3,0,0,0,0,56,171,3
+576,"laboratory examination ",1,22,40,4,"Healthy Weight",Winter,2,0,179,22,17,96,0,2,2,0,1,0,63,170,2
+577,"Diseases of the respiratory system",1,36,49,5,Obese,Winter,2,0,289,48,29,96,0,1,0,0,0,2,108,172,8
+578,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,22,40,6,"Healthy Weight",Winter,2,0,179,22,17,96,0,2,2,0,1,0,63,170,3
+579,"physiotherapy ",1,19,30,2,"Healthy Weight",Winter,2,0,179,26,9,96,0,3,0,0,0,0,56,171,2
+580,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,25,34,3,"Healthy Weight",Winter,2,0,155,12,14,96,0,1,2,1,0,0,95,196,8
+581,"physiotherapy ",1,19,30,4,"Healthy Weight",Winter,2,0,179,26,9,96,0,3,0,0,0,0,56,171,2
+582,"physiotherapy ",1,31,38,4,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+583,"Diseases of the musculoskeletal system and connective tissue",1,30,33,4,Overweight,Winter,2,0,289,36,13,96,0,1,2,1,0,1,90,172,8
+584,"physiotherapy ",1,31,38,5,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,3
+585,"physiotherapy ",1,31,38,6,Obese,Winter,2,0,179,51,18,96,0,1,0,1,0,0,89,170,2
+586,"Diseases of the musculoskeletal system and connective tissue",2,31,38,3,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,8
+587,"medical consultation ",2,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,3
+588,"Certain infectious and parasitic diseases",2,32,47,4,Obese,Winter,2,0,248,25,14,97,0,1,2,0,0,1,86,165,8
+589,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+590,"dental consultation ",2,24,28,5,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,3
+591,"physiotherapy ",2,31,38,5,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+592,"physiotherapy ",2,19,30,5,"Healthy Weight",Winter,2,0,179,26,9,97,0,3,0,0,0,0,56,171,2
+593,"dental consultation ",2,28,41,6,Overweight,Winter,2,0,225,15,15,97,0,4,2,1,0,2,94,182,2
+594,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+595,"Injury, poisoning and certain other consequences of external causes",2,21,31,2,"Healthy Weight",Winter,2,0,233,51,1,97,0,2,1,1,0,8,68,178,2
+596,"physiotherapy ",2,31,38,2,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+597,"Diseases of the eye and adnexa",2,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,8
+598,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,3
+599,"physiotherapy ",2,31,38,5,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,3
+600,"laboratory examination ",2,24,28,5,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,3
+601,"Diseases of the musculoskeletal system and connective tissue",2,19,30,5,"Healthy Weight",Winter,2,0,179,26,9,97,0,3,0,0,0,0,56,171,2
+602,"medical consultation ",2,22,40,6,"Healthy Weight",Winter,2,0,179,22,17,97,0,2,2,0,1,0,63,170,2
+603,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,3
+604,"Diseases of the skin and subcutaneous tissue",2,21,31,4,"Healthy Weight",Winter,2,0,233,51,1,97,0,2,1,1,0,8,68,178,3
+605,"physiotherapy ",2,19,30,4,"Healthy Weight",Winter,2,0,179,26,9,97,0,3,0,0,0,0,56,171,2
+606,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+607,"Diseases of the musculoskeletal system and connective tissue",2,31,38,5,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,8
+608,"physiotherapy ",2,31,38,6,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+609,"laboratory examination ",2,25,34,2,"Healthy Weight",Winter,2,0,155,12,14,97,0,1,2,1,0,0,95,196,5
+610,"laboratory examination ",2,25,32,2,"Healthy Weight",Winter,2,0,235,16,8,97,0,3,0,0,0,0,75,178,3
+611,"physiotherapy ",2,31,38,2,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+612,"Diseases of the eye and adnexa",2,24,28,2,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,2
+613,"physiotherapy ",2,31,38,3,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+614,"medical consultation ",2,32,47,3,Obese,Winter,2,0,248,25,14,97,0,1,2,0,0,1,86,165,2
+615,"laboratory examination ",2,24,28,3,"Healthy Weight",Winter,2,0,225,26,9,97,0,1,1,0,0,2,69,169,2
+616,"physiotherapy ",2,31,38,4,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+617,"physiotherapy ",2,31,38,5,Obese,Winter,2,0,179,51,18,97,0,1,0,1,0,0,89,170,2
+618,"laboratory examination ",2,25,32,6,"Healthy Weight",Winter,2,0,235,16,8,97,0,3,0,0,0,0,75,178,2
+619,"physiotherapy ",3,31,38,2,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,2
+620,"medical consultation ",3,32,47,2,Obese,Spring,2,0,248,25,14,99,0,1,2,0,0,1,86,165,2
+621,"laboratory examination ",3,22,58,3,"Healthy Weight",Spring,2,0,228,14,16,99,0,1,2,0,0,1,65,172,3
+622,"laboratory examination ",3,32,47,3,Obese,Spring,2,0,248,25,14,99,0,1,2,0,0,1,86,165,3
+623,"Diseases of the skin and subcutaneous tissue",3,22,58,3,"Healthy Weight",Spring,2,0,228,14,16,99,0,1,2,0,0,1,65,172,112
+624,"physiotherapy ",3,31,38,4,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,2
+625,"physiotherapy ",3,24,28,5,"Healthy Weight",Spring,2,0,225,26,9,99,0,1,1,0,0,2,69,169,2
+626,"physiotherapy ",3,31,38,5,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+627,"laboratory examination ",3,24,28,5,"Healthy Weight",Spring,2,0,225,26,9,99,0,1,1,0,0,2,69,169,2
+628,"physiotherapy ",3,19,30,6,"Healthy Weight",Spring,2,0,179,26,9,99,0,3,0,0,0,0,56,171,3
+629,"laboratory examination ",3,25,32,2,"Healthy Weight",Spring,2,0,235,16,8,99,0,3,0,0,0,0,75,178,3
+630,"Injury, poisoning and certain other consequences of external causes",3,27,28,2,Overweight,Spring,2,0,361,52,3,99,0,1,1,1,0,4,80,172,8
+631,"Diseases of the musculoskeletal system and connective tissue",3,31,38,3,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,8
+632,"physiotherapy ",3,31,38,4,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,2
+633,"physiotherapy ",3,31,38,5,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+634,"physiotherapy ",3,19,30,6,"Healthy Weight",Spring,2,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+635,"Diseases of the respiratory system",3,31,38,2,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,4
+636,"Diseases of the musculoskeletal system and connective tissue",3,32,47,2,Obese,Spring,2,0,248,25,14,99,0,1,2,0,0,1,86,165,2
+637,"physiotherapy ",3,31,38,2,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+638,"Diseases of the eye and adnexa",3,24,28,2,"Healthy Weight",Spring,2,0,225,26,9,99,0,1,1,0,0,2,69,169,8
+639,"physiotherapy ",3,31,38,3,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,2
+640,"medical consultation ",3,30,33,4,Overweight,Spring,2,0,289,36,13,99,0,1,2,1,0,1,90,172,8
+641,"laboratory examination ",3,22,58,4,"Healthy Weight",Spring,2,0,228,14,16,99,0,1,2,0,0,1,65,172,2
+642,"physiotherapy ",3,31,38,4,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,2
+643,"medical consultation ",3,32,47,5,Obese,Spring,2,0,248,25,14,99,0,1,2,0,0,1,86,165,3
+644,"physiotherapy ",3,31,38,5,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+645,"medical consultation ",3,19,30,6,"Healthy Weight",Spring,2,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+646,"physiotherapy ",3,31,38,6,Obese,Spring,2,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+647,"physiotherapy ",3,31,38,3,Obese,Spring,3,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+648,"medical consultation ",3,25,46,4,"Healthy Weight",Spring,3,0,118,15,24,99,0,1,2,1,1,0,75,175,8
+649,"Diseases of the musculoskeletal system and connective tissue",3,25,34,4,"Healthy Weight",Spring,3,0,155,12,14,99,0,1,2,1,0,0,95,196,24
+650,"physiotherapy ",3,31,38,4,Obese,Spring,3,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+651,"physiotherapy ",3,31,38,5,Obese,Spring,3,0,179,51,18,99,0,1,0,1,0,0,89,170,3
+652,"Diseases of the musculoskeletal system and connective tissue",3,19,30,2,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+653,"Injury, poisoning and certain other consequences of external causes",3,30,33,2,Overweight,Spring,3,0,289,36,13,99,0,1,2,1,0,1,90,172,104
+654,"patient follow-up ",3,25,31,4,"Healthy Weight",Spring,3,0,369,17,12,99,0,1,3,1,0,0,70,169,8
+655,"Diseases of the musculoskeletal system and connective tissue",4,24,28,2,"Healthy Weight",Spring,3,0,225,26,9,91,0,1,1,0,0,2,69,169,8
+656,"Diseases of the respiratory system",4,28,37,2,Overweight,Spring,3,0,118,10,10,91,0,1,0,0,0,0,83,172,8
+657,"Injury, poisoning and certain other consequences of external causes",4,27,28,3,Overweight,Spring,3,0,361,52,3,91,0,1,1,1,0,4,80,172,8
+658,"Injury, poisoning and certain other consequences of external causes",4,32,47,4,Obese,Spring,3,0,248,25,14,91,0,1,2,0,0,1,86,165,8
+659,"Diseases of the musculoskeletal system and connective tissue",4,25,33,5,"Healthy Weight",Spring,3,0,189,29,13,91,0,1,2,0,0,2,69,167,8
+660,"physiotherapy ",4,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,91,0,3,0,0,0,0,56,171,2
+661,"Diseases of the eye and adnexa",4,25,31,2,"Healthy Weight",Spring,3,0,369,17,12,91,0,1,3,1,0,0,70,169,24
+662,"Certain conditions originating in the perinatal period",4,22,40,3,"Healthy Weight",Spring,3,0,179,22,17,91,0,2,2,0,1,0,63,170,2
+663,"medical consultation ",4,31,50,3,Obese,Spring,3,0,118,13,18,91,0,1,1,1,0,0,98,178,3
+664,"medical consultation ",4,27,28,3,Overweight,Spring,3,0,361,52,3,91,0,1,1,1,0,4,80,172,2
+665,"Diseases of the respiratory system",4,28,37,4,Overweight,Spring,3,0,118,10,10,91,0,1,0,0,0,0,83,172,2
+666,"patient follow-up ",4,29,37,6,Overweight,Spring,3,0,235,11,14,91,0,3,1,0,0,1,88,172,8
+667,"physiotherapy ",4,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,91,0,3,0,0,0,0,56,171,2
+668,"Injury, poisoning and certain other consequences of external causes",4,24,28,2,"Healthy Weight",Spring,3,0,225,26,9,91,0,1,1,0,0,2,69,169,8
+669,"Certain conditions originating in the perinatal period",4,25,32,3,"Healthy Weight",Spring,3,0,235,16,8,91,0,3,0,0,0,0,75,178,3
+670,"physiotherapy ",4,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,91,0,3,0,0,0,0,56,171,2
+671,"dental consultation ",4,25,34,3,"Healthy Weight",Spring,3,0,155,12,14,91,0,1,2,1,0,0,95,196,4
+672,"Injury, poisoning and certain other consequences of external causes",4,24,28,5,"Healthy Weight",Spring,3,0,225,26,9,91,0,1,1,0,0,2,69,169,8
+673,"Diseases of the genitourinary system",4,31,50,5,Obese,Spring,3,0,118,13,18,91,0,1,1,1,0,0,98,178,2
+674,"physiotherapy ",4,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,91,0,3,0,0,0,0,56,171,2
+675,"patient follow-up ",5,29,37,2,Overweight,Spring,3,0,235,11,14,99,0,3,1,0,0,1,88,172,8
+676,"Injury, poisoning and certain other consequences of external causes",5,28,41,4,Overweight,Spring,3,0,225,15,15,99,0,4,2,1,0,2,94,182,3
+677,"dental consultation ",5,25,32,4,"Healthy Weight",Spring,3,0,235,16,8,99,0,3,0,0,0,0,75,178,2
+678,"Diseases of the ear and mastoid process",5,28,37,4,Overweight,Spring,3,0,118,10,10,99,0,1,0,0,0,0,83,172,3
+679,"unjustified absence ",5,38,43,4,Obese,Spring,3,0,235,20,13,99,0,1,1,1,0,0,106,167,8
+680,"Diseases of the musculoskeletal system and connective tissue",5,19,30,5,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,1
+681,"dental consultation ",5,25,40,5,"Healthy Weight",Spring,3,0,291,31,12,99,0,1,1,1,0,1,73,171,2
+682,"Diseases of the genitourinary system",5,28,41,5,Overweight,Spring,3,0,225,15,15,99,0,4,2,1,0,2,94,182,8
+683,"Injury, poisoning and certain other consequences of external causes",5,25,43,6,"Healthy Weight",Spring,3,0,300,26,13,99,0,1,2,1,1,1,77,175,64
+684,"patient follow-up ",5,28,41,6,Overweight,Spring,3,0,225,15,15,99,0,4,2,1,0,2,94,182,8
+685,"physiotherapy ",5,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+686,"medical consultation ",5,31,50,2,Obese,Spring,3,0,118,13,18,99,0,1,1,1,0,0,98,178,2
+687,"Mental and behavioural disorders",5,31,50,3,Obese,Spring,3,0,118,13,18,99,0,1,1,1,0,0,98,178,3
+688,"dental consultation ",5,28,37,3,Overweight,Spring,3,0,118,10,10,99,0,1,0,0,0,0,83,172,1
+689,Unkown,5,31,50,3,Obese,Spring,3,1,118,13,18,99,1,1,1,1,0,0,98,178,0
+690,"physiotherapy ",5,19,30,4,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+691,Unkown,5,21,36,4,"Healthy Weight",Spring,3,1,378,49,11,99,1,1,2,0,1,4,65,174,0
+692,"Certain conditions originating in the perinatal period",5,22,40,6,"Healthy Weight",Spring,3,0,179,22,17,99,0,2,2,0,1,0,63,170,1
+693,"Diseases of the respiratory system",5,25,34,2,"Healthy Weight",Spring,3,0,155,12,14,99,0,1,2,1,0,0,95,196,48
+694,"Diseases of the respiratory system",5,25,32,2,"Healthy Weight",Spring,3,0,235,16,8,99,0,3,0,0,0,0,75,178,8
+695,"patient follow-up ",5,25,40,4,"Healthy Weight",Spring,3,0,291,31,12,99,0,1,1,1,0,1,73,171,8
+696,"Diseases of the respiratory system",5,22,40,4,"Healthy Weight",Spring,3,0,179,22,17,99,0,2,2,0,1,0,63,170,8
+697,"Diseases of the nervous system",5,24,28,4,"Healthy Weight",Spring,3,0,225,26,9,99,0,1,1,0,0,2,69,169,3
+698,"Diseases of the respiratory system",5,25,28,5,"Healthy Weight",Spring,3,0,330,16,4,99,0,2,0,0,0,0,84,182,8
+699,"medical consultation ",5,25,32,5,"Healthy Weight",Spring,3,0,235,16,8,99,0,3,0,0,0,0,75,178,2
+700,"dental consultation ",5,25,40,5,"Healthy Weight",Spring,3,0,291,31,12,99,0,1,1,1,0,1,73,171,2
+701,"physiotherapy ",5,19,30,6,"Healthy Weight",Spring,3,0,179,26,9,99,0,3,0,0,0,0,56,171,2
+702,"Diseases of the eye and adnexa",5,27,28,2,Overweight,Spring,3,0,361,52,3,99,0,1,1,1,0,4,80,172,8
+703,"medical consultation ",5,25,34,4,"Healthy Weight",Spring,3,0,155,12,14,99,0,1,2,1,0,0,95,196,2
+704,"laboratory examination ",5,22,40,6,"Healthy Weight",Spring,3,0,179,22,17,99,0,2,2,0,1,0,63,170,8
+705,"Diseases of the respiratory system",5,25,34,6,"Healthy Weight",Spring,3,0,155,12,14,99,0,1,2,1,0,0,95,196,8
+706,"Diseases of the digestive system",5,24,28,2,"Healthy Weight",Spring,3,0,225,26,9,99,0,1,1,0,0,2,69,169,1
+707,"Diseases of the eye and adnexa",6,25,46,4,"Healthy Weight",Summer,3,0,118,15,24,96,0,1,2,1,1,0,75,175,8
+708,"physiotherapy ",6,19,30,4,"Healthy Weight",Summer,3,0,179,26,9,96,0,3,0,0,0,0,56,171,3
+709,"unjustified absence ",6,28,37,6,Overweight,Summer,3,0,118,10,10,96,0,1,0,0,0,0,83,172,8
+710,"Diseases of the respiratory system",6,28,37,4,Overweight,Summer,3,0,118,10,10,96,0,1,0,0,0,0,83,172,8
+711,"patient follow-up ",6,21,36,5,"Healthy Weight",Summer,3,0,378,49,11,96,0,1,2,0,1,4,65,174,8
+712,"Injury, poisoning and certain other consequences of external causes",6,31,50,5,Obese,Summer,3,0,118,13,18,96,0,1,1,1,0,0,98,178,24
+713,"Injury, poisoning and certain other consequences of external causes",6,21,31,6,"Healthy Weight",Summer,3,0,233,51,1,96,0,2,1,1,0,8,68,178,8
+714,"physiotherapy ",6,19,30,6,"Healthy Weight",Summer,3,0,179,26,9,96,0,3,0,0,0,0,56,171,2
+715,Unkown,6,33,48,2,Obese,Summer,3,1,235,29,12,96,1,1,1,0,1,5,88,163,0
+716,Unkown,6,25,33,2,"Healthy Weight",Summer,3,1,268,11,8,96,1,2,0,0,0,0,79,178,0
+717,"Injury, poisoning and certain other consequences of external causes",6,31,50,5,Obese,Summer,3,0,118,13,18,96,0,1,1,1,0,0,98,178,3
+718,"Diseases of the musculoskeletal system and connective tissue",6,19,30,5,"Healthy Weight",Summer,3,0,179,26,9,96,0,3,0,0,0,0,56,171,2
+719,"dental consultation ",6,25,40,5,"Healthy Weight",Summer,3,0,291,31,12,96,0,1,1,1,0,1,73,171,2
+720,"Diseases of the musculoskeletal system and connective tissue",6,19,30,2,"Healthy Weight",Summer,1,0,179,26,9,96,0,3,0,0,0,0,56,171,3
+721,"laboratory examination ",6,28,37,2,Overweight,Summer,1,0,118,10,10,96,0,1,0,0,0,0,83,172,3
+722,"patient follow-up ",6,21,31,5,"Healthy Weight",Summer,1,0,233,51,1,96,0,2,1,1,0,8,68,178,8
+723,"Diseases of the ear and mastoid process",6,28,37,6,Overweight,Summer,1,0,118,10,10,96,0,1,0,0,0,0,83,172,2
+724,"Diseases of the respiratory system",6,28,37,4,Overweight,Summer,1,0,118,10,10,96,0,1,0,0,0,0,83,172,3
+725,"patient follow-up ",6,21,31,4,"Healthy Weight",Summer,1,0,233,51,1,96,0,2,1,1,0,8,68,178,3
+726,"unjustified absence ",7,38,43,4,Obese,Summer,1,0,235,20,13,93,0,1,1,1,0,0,106,167,4
+727,"Injury, poisoning and certain other consequences of external causes",7,21,31,6,"Healthy Weight",Summer,1,0,233,51,1,93,0,2,1,1,0,8,68,178,2
+728,"Diseases of the nervous system",7,22,58,2,"Healthy Weight",Summer,1,0,228,14,16,93,0,1,2,0,0,1,65,172,8
+729,"dental consultation ",7,28,37,2,Overweight,Summer,1,0,118,10,10,93,0,1,0,0,0,0,83,172,4
+730,"Diseases of the nervous system",7,22,58,3,"Healthy Weight",Summer,1,0,228,14,16,93,0,1,2,0,0,1,65,172,120
+731,"patient follow-up ",7,25,33,3,"Healthy Weight",Summer,1,0,189,29,13,93,0,1,2,0,0,2,69,167,16
+732,"medical consultation ",7,28,37,4,Overweight,Summer,1,0,118,10,10,93,0,1,0,0,0,0,83,172,2
+733,"patient follow-up ",7,27,28,4,Overweight,Summer,1,0,361,52,3,93,0,1,1,1,0,4,80,172,8
+734,"patient follow-up ",7,24,28,4,"Healthy Weight",Summer,1,0,225,26,9,93,0,1,1,0,0,2,69,169,8
+735,"Diseases of the musculoskeletal system and connective tissue",7,25,31,2,"Healthy Weight",Summer,1,0,369,17,12,93,0,1,3,1,0,0,70,169,80
+736,"Diseases of the genitourinary system",7,30,33,3,Overweight,Summer,1,0,289,36,13,93,0,1,2,1,0,1,90,172,8
+737,"Diseases of the digestive system",7,29,37,3,Overweight,Summer,1,0,235,11,14,93,0,3,1,0,0,1,88,172,4
+738,Unkown,0,34,40,3,Obese,Unkown,1,0,118,14,13,95,0,1,1,1,0,8,98,170,0
+739,Unkown,0,35,39,4,Obese,Unkown,2,0,231,35,14,95,0,1,2,1,0,2,100,170,0
+740,Unkown,0,25,53,6,"Healthy Weight",Unkown,3,0,179,45,14,95,0,1,1,0,0,1,77,175,0
